@@ -4,12 +4,15 @@
 
 Awesome list of Joomla seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in Joomla community. All references are mainly coming from my personal bookmarks and suggestions. Feel free to send me new additions.
 
-**Current Joomla version**: 3.6.5. - [Joomla! Downloads](https://downloads.joomla.org/) / Downloaded over 80,000,000 times!
-
 Aweseome Joomla Guidelines:
 
 - No templates. If you are looking for templates, just google it.
 - No extensions. If you are looking for templates, go to [Joomla! Extensions Directory (JED)](https://extensions.joomla.org/).
+
+## Current Joomla version**: 3.6.5. 
+
+- [Joomla! Downloads](https://downloads.joomla.org/) / Downloaded over 80,000,000 times!
+- [Usage Statistics](https://developer.joomla.org/about/stats.html)
 
 ## Contents
 
