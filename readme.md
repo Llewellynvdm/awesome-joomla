@@ -2,9 +2,9 @@
 
 > A curated list of awesome Joomla resources by [@anibalhsanchez](https://twitter.com/anibal_sanchez) [https://blog.anibalhsanchez.com](https://blog.anibalhsanchez.com)
 
-Awesome list of Joomla seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in Joomla community.
+Awesome list of Joomla seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in Joomla community. All references are mainly coming from my personal bookmarks and suggestions. Feel free to send me new additions.
 
-**Current Joomla version**: 3.6.5
+**Current Joomla version**: 3.6.5. - [Joomla! Downloads](https://downloads.joomla.org/) / Downloaded over 80,000,000 times!
 
 Aweseome Joomla Guidelines:
 
@@ -13,12 +13,11 @@ Aweseome Joomla Guidelines:
 
 ## Contents
 
-- [Official Resources](#section)
-- [Joomla! Extensions Directory (JED)](#another-section)
-- [Leadership](#another-section)
-- [Community](#another-section)
-- [Experts on Twitter](#another-section)
-
+- [Official Resources](#official-resources)
+- [Joomla! Extensions Directory (JED)](#joomla-extensions-directory-jed)
+- [Leadership](#leadership)
+- [Community](#community)
+- [Experts on Twitter](#experts-on-twitter)
 
 ## Official Resources
 
@@ -89,7 +88,6 @@ Aweseome Joomla Guidelines:
 
 - [President - Robert Jacobi](http://example.com)
 - [Vice-President - Aleksander Kuczek](http://example.com)
-
 - [Secretary - Luca Marzo](http://example.com)
 
 #### Department Coordinators
@@ -101,6 +99,10 @@ Aweseome Joomla Guidelines:
 - [Events - Rowan Hoskyns Abrahall](https://volunteers.joomla.org/joomlers/677-rowan-hoskyns-abrahall)
 - [Legal & Finance - Søren Beck Jensen](https://twitter.com/sorenbeck)
 - [Programs - Yves Hoppe](https://twitter.com/yveshoppe)
+
+## Community
+
+## Experts on Twitter
 
 ## Contribute
 
