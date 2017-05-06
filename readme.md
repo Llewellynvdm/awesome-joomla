@@ -20,6 +20,7 @@ Aweseome Joomla Guidelines:
 - [Joomla! Extensions Directory (JED)](#joomla-extensions-directory-jed)
 - [Leadership](#leadership)
 - [Community](#community)
+- [Development](#development)
 - [Marketing](#marketing)
 - [Experts on Twitter](#experts-on-twitter)
 
@@ -131,6 +132,11 @@ Joomla! Trademark & Licensing | [tm.joomla.org](https://tm.joomla.org)
 The Joomla! Vulnerable Extensions List | [vel.joomla.org](https://vel.joomla.org)
 Joomla! Volunteers Portal | [volunteers.joomla.org](https://volunteers.joomla.org)
 JoomlaCode | [joomlacode.org](http://joomlacode.org)
+
+## Development
+
+- [Joomla CodeSniffer (PHP CS 1.5.6)](https://docs.joomla.org/Joomla_CodeSniffer#1._Installation_of_PHP_Code_Sniffer_.28phpcs.29) - Classic
+- [Joomla CodeSniffer](https://github.com/joomla/coding-standards) - Modern
 
 ## Marketing
 
