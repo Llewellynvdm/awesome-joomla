@@ -135,6 +135,12 @@ JoomlaCode | [joomlacode.org](http://joomlacode.org)
 
 ## Development
 
+## Source Code
+
+- [joomla/joomla-cms - Main Repository](https://github.com/joomla/joomla-cms) - Home of the Joomla! Content Management System
+
+## Code Style
+
 - [Joomla CodeSniffer (PHP CS 1.5.6)](https://docs.joomla.org/Joomla_CodeSniffer#1._Installation_of_PHP_Code_Sniffer_.28phpcs.29) - Classic
 - [Joomla CodeSniffer](https://github.com/joomla/coding-standards) - Modern
 
