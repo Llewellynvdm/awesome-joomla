@@ -139,6 +139,10 @@ JoomlaCode | [joomlacode.org](http://joomlacode.org)
 
 - [joomla/joomla-cms - Main Repository](https://github.com/joomla/joomla-cms) - Home of the Joomla! Content Management System
 
+## Testing
+
+- [Running Automated Tests for the Joomla CMS](https://docs.joomla.org/Running_Automated_Tests_for_the_Joomla_CMS)
+
 ## Code Style
 
 - [Joomla CodeSniffer (PHP CS 1.5.6)](https://docs.joomla.org/Joomla_CodeSniffer#1._Installation_of_PHP_Code_Sniffer_.28phpcs.29) - Classic
