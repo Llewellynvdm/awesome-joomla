@@ -23,6 +23,7 @@ Aweseome Joomla Guidelines:
 - [Development](#development)
 - [Marketing](#marketing)
 - [Experts on Twitter](#experts-on-twitter)
+- [Archive](#archive)
 
 ## Official Resources
 
@@ -163,6 +164,14 @@ JoomlaCode | [joomlacode.org](http://joomlacode.org)
 - [Joomla 3.5](https://drive.google.com/drive/folders/0B5uNo3ban2UnN05UYUh6M1hXVmM)
 
 ## Experts on Twitter
+
+## Archive
+
+List of archived Joomla! sub-projects, unsupported or longer active:
+
+- [What version of Joomla! should you use?](https://docs.joomla.org/What_version_of_Joomla!_should_you_use%3F)
+- Joomla! 1.0, 1.5, 1.6, 1.7 and 2.5.
+- [JPlatform](https://docs.joomla.org/Platform) - https://docs.joomla.org/Platform
 
 ## Contribute
 
