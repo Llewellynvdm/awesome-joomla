@@ -147,8 +147,8 @@ JoomlaCode | [joomlacode.org](http://joomlacode.org)
 ## Coding standard
 
 - [Joomla! Developer Network - Coding standard](https://developer.joomla.org/coding-standards)
-- [Joomla CodeSniffer (PHP CS 1.5.6)](https://docs.joomla.org/Joomla_CodeSniffer#1._Installation_of_PHP_Code_Sniffer_.28phpcs.29) - Classic
-- [Joomla CodeSniffer - Github Repo](https://github.com/joomla/coding-standards) - Modern
+- [Joomla CodeSniffer (PHP CS 1.5.6)](https://docs.joomla.org/Joomla_CodeSniffer#1._Installation_of_PHP_Code_Sniffer_.28phpcs.29) - Legacy - 1.x - <https://github.com/joomla/coding-standards/tree/1.x>
+- [Joomla CodeSniffer - (PHP CS 2.8)](https://github.com/joomla/coding-standards) - Modern 2.0.0-alpha
 
 ## Marketing
 
