@@ -144,10 +144,11 @@ JoomlaCode | [joomlacode.org](http://joomlacode.org)
 
 - [Running Automated Tests for the Joomla CMS](https://docs.joomla.org/Running_Automated_Tests_for_the_Joomla_CMS)
 
-## Code Style
+## Coding standard
 
+- [Joomla! Developer Network - Coding standard](https://developer.joomla.org/coding-standards)
 - [Joomla CodeSniffer (PHP CS 1.5.6)](https://docs.joomla.org/Joomla_CodeSniffer#1._Installation_of_PHP_Code_Sniffer_.28phpcs.29) - Classic
-- [Joomla CodeSniffer](https://github.com/joomla/coding-standards) - Modern
+- [Joomla CodeSniffer - Github Repo](https://github.com/joomla/coding-standards) - Modern
 
 ## Marketing
 
