@@ -136,15 +136,19 @@ JoomlaCode | [joomlacode.org](http://joomlacode.org)
 
 ## Development
 
-## Source Code
+### Source Code
 
 - [joomla/joomla-cms - Main Repository](https://github.com/joomla/joomla-cms) - Home of the Joomla! Content Management System
 
-## Testing
+### Testing
 
 - [Running Automated Tests for the Joomla CMS](https://docs.joomla.org/Running_Automated_Tests_for_the_Joomla_CMS)
 
-## Coding standard
+### Administration
+
+- [How do you recover or reset your admin password?](https://docs.joomla.org/How_do_you_recover_or_reset_your_admin_password%3F)
+
+### Coding standard
 
 - [Joomla! Developer Network - Coding standard](https://developer.joomla.org/coding-standards)
 - [Joomla CodeSniffer (PHP CS 1.5.6)](https://docs.joomla.org/Joomla_CodeSniffer#1._Installation_of_PHP_Code_Sniffer_.28phpcs.29) - Legacy - 1.x - <https://github.com/joomla/coding-standards/tree/1.x>
