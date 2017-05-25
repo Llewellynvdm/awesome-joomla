@@ -156,6 +156,7 @@ JoomlaCode | [joomlacode.org](http://joomlacode.org)
 
 ## Marketing
 
+- [A sustainable ecosystem for Joomla](https://docs.google.com/presentation/d/1Sx1UPZ8whxsxFvyHCMoGhtF5_HvHH1Xy3QWJe3EeCcE/edit#slide=id.g1ba30ac4d2_0_6)
 - [Joomla Marketing Visuals](https://docs.joomla.org/Joomla_Marketing_Visuals) - [Google Drive](http://goo.gl/VRlZCP)
 - [Joomla Signature](https://drive.google.com/drive/folders/0B-WMsfRg_wiva0ZIMUtNNWVIVnM)
 - [Joomla Brandmark](https://drive.google.com/drive/folders/0B-WMsfRg_wivamdtTnppRkpFMmM)
