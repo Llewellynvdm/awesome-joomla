@@ -171,12 +171,22 @@ JoomlaCode | [joomlacode.org](http://joomlacode.org)
 
 ## Experts on Twitter
 
+- [@astroboysoup](https://twitter.com/astroboysoup)
+- [@brianteeman](https://twitter.com/brianteeman)
+- [@cozimek](https://twitter.com/cozimek)
+- [@mbabker](https://twitter.com/mbabker)
+- [@MIT5O5](https://twitter.com/MIT5O5)
+- [@philiplocke](https://twitter.com/philiplocke)
+- [@phproberto](https://twitter.com/phproberto)
+- [@RadekSu](https://twitter.com/RadekSu)
+- [@rdeutz](https://twitter.com/rdeutz)
+- [@SteveJBurge](https://twitter.com/SteveJBurge)
+
 ## Archive
 
 List of archived Joomla! sub-projects, unsupported or longer active:
 
-- [What version of Joomla! should you use?](https://docs.joomla.org/What_version_of_Joomla!_should_you_use%3F)
-- Joomla! 1.0, 1.5, 1.6, 1.7 and 2.5.
+- [What version of Joomla! should you use?](https://docs.joomla.org/What_version_of_Joomla!_should_you_use%3F) Joomla! 1.0, 1.5, 1.6, 1.7 and 2.5.
 - [JPlatform](https://docs.joomla.org/Platform) - https://docs.joomla.org/Platform
 
 ## Contribute
