@@ -7,7 +7,7 @@ Awesome list of Joomla! seed repos, starters, boilerplates, examples, tutorials,
 Aweseome Joomla! Guidelines:
 
 - Joomla! has more than 10 years of history. So, there are many many many resources. Please, submit only links with up-to-date information.
-- No templates or extensions. There are around 8,000 extensions on JED and I can't even count the top templates. So, to keep the list clean, we have to avoid naming extensions or templates. If you are looking for templates, just google it. If you are looking for extensions, go to [Joomla! Extensions Directory (JED)](https://extensions.joomla.org/). As a guideline of best practices, please, visit the [Development](#development) area where the list includes Template Frameworks and General Development Frameworks.
+- No templates or extensions. There are around 8,000 extensions on JED and I can't even count the top templates. So, to keep the list clean, we have to avoid naming extensions or templates. If you are looking for templates, just google it. If you are looking for extensions, go to [Joomla! Extensions Directory (JED)](https://extensions.joomla.org/). As a guideline of best practices, please, visit the [Development](#development) area where the list includes [Template Frameworks](#template-frameworks) and [General Development Frameworks](#general-development-frameworks).
 
 ## What is Joomla?
 
