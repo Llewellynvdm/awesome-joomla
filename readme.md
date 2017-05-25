@@ -1,15 +1,19 @@
-# Awesome Joomla [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Joomla! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome Joomla resources by [@anibalhsanchez](https://twitter.com/anibal_sanchez) [https://blog.anibalhsanchez.com](https://blog.anibalhsanchez.com)
+> A curated list of awesome Joomla! resources by [@anibalhsanchez](https://twitter.com/anibal_sanchez) [https://blog.anibalhsanchez.com](https://blog.anibalhsanchez.com)
 
-Awesome list of Joomla seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in Joomla community. All references are mainly coming from my personal bookmarks and suggestions. Feel free to send me new additions.
+Awesome list of Joomla! seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in Joomla! community. All references are mainly coming from my personal bookmarks and suggestions. Feel free to send me new additions.
 
-Aweseome Joomla Guidelines:
+_The Free Software Powering Millions of Websites_
+
+_**Joomla!** is an award-winning content management system (CMS), which enables you to build web sites and powerful online applications._ https://www.joomla.org/
+
+Aweseome Joomla! Guidelines:
 
 - No templates. If you are looking for templates, just google it.
 - No extensions. If you are looking for templates, go to [Joomla! Extensions Directory (JED)](https://extensions.joomla.org/).
 
-## Current Joomla version: 3.7.2
+## Current Joomla! version: 3.7.2
 
 - [Joomla! Downloads](https://downloads.joomla.org/) / Downloaded over 80,000,000 times!
 - [Usage Statistics](https://developer.joomla.org/about/stats.html)
@@ -83,7 +87,7 @@ Aweseome Joomla Guidelines:
     - Documentation (JDOCS)
     - Framework
     - Google Summer of Code (GSOC)
-    - Joomla X
+    - Joomla! X
     - Security Strike Team (SST)
     - User Experience (JUX)
 - Programs
