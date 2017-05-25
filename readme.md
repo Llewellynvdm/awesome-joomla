@@ -150,6 +150,13 @@ JoomlaCode | [joomlacode.org](http://joomlacode.org)
 
 - [joomla/joomla-cms - Main Repository](https://github.com/joomla/joomla-cms) - Home of the Joomla! Content Management System
 
+### Tips and Tircks - A handy reference for beginners
+
+- [Accessing the database using JDatabase](https://docs.joomla.org/How_to_use_the_database_classes_in_your_script)- [Retrieving request data using JInput](https://docs.joomla.org/Retrieving_request_data_using_JInput)
+- [Adding JavaScript and CSS to the page](https://docs.joomla.org/Adding_JavaScript_and_CSS_to_the_page)
+- [Understanding Output Overrides](https://docs.joomla.org/Understanding_Output_Overrides) - A Personal Note: This is VERY important to master the art of customizing a site.
+
+
 ### Template Frameworks
 
 TBD
@@ -205,7 +212,8 @@ TBD
 List of archived Joomla! sub-projects, unsupported or longer active:
 
 - [What version of Joomla! should you use?](https://docs.joomla.org/What_version_of_Joomla!_should_you_use%3F) Joomla! 1.0, 1.5, 1.6, 1.7 and 2.5.
-- [JPlatform](https://docs.joomla.org/Platform) - https://docs.joomla.org/Platform
+- [API16:Framework](https://docs.joomla.org/API16:Framework) - The Joomla! Framework was an important part of the Joomla! CMS architecture in the versions 1.5 and 1.6. Do NOT confuse with the current JFramework (Yes, I know ...).
+- [JPlatform](https://docs.joomla.org/Platform) - As of 24 April 2013, the Platform project has been retired. The Platform has been merged back into the CMS.
 
 ## Contribute
 
