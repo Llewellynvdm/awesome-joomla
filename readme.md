@@ -6,8 +6,8 @@ Awesome list of Joomla! seed repos, starters, boilerplates, examples, tutorials,
 
 Aweseome Joomla! Guidelines:
 
-- No templates. If you are looking for templates, just google it.
-- No extensions. If you are looking for templates, go to [Joomla! Extensions Directory (JED)](https://extensions.joomla.org/).
+- Joomla! has more than 10 years of history. So, there are many many many resources. Please, submit only links with up-to-date information.
+- No templates or extensions. There are around 8,000 extensions on JED and I can't even count the top templates. So, to keep the list clean, we have to avoid naming extensions or templates. If you are looking for templates, just google it. If you are looking for extensions, go to [Joomla! Extensions Directory (JED)](https://extensions.joomla.org/). As a guideline of best practices, please, visit the [Development](#development) area where the list includes Template Frameworks and General Development Frameworks.
 
 ## What is Joomla?
 
@@ -149,6 +149,14 @@ JoomlaCode | [joomlacode.org](http://joomlacode.org)
 ### Source Code
 
 - [joomla/joomla-cms - Main Repository](https://github.com/joomla/joomla-cms) - Home of the Joomla! Content Management System
+
+### Template Frameworks
+
+TBD
+
+### General Development Frameworks
+
+TBD
 
 ### Testing
 
