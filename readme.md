@@ -4,14 +4,20 @@
 
 Awesome list of Joomla! seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in Joomla! community. All references are mainly coming from my personal bookmarks and suggestions. Feel free to send me new additions.
 
-_The Free Software Powering Millions of Websites_
-
-_**Joomla!** is an award-winning content management system (CMS), which enables you to build web sites and powerful online applications._ https://www.joomla.org/
-
 Aweseome Joomla! Guidelines:
 
 - No templates. If you are looking for templates, just google it.
 - No extensions. If you are looking for templates, go to [Joomla! Extensions Directory (JED)](https://extensions.joomla.org/).
+
+## What is Joomla?
+
+_Joomla is a free and open-source content management system (CMS) for publishing web content. It is built on a model–view–controller web application framework that can be used independently of the CMS._
+
+_Joomla! is written in PHP, uses object-oriented programming (OOP) techniques (since version 1.5) and software design patterns, stores data in a MySQL, MS SQL (since version 2.5), or PostgreSQL (since version 3.0) database, and includes features such as page caching, RSS feeds, printable versions of pages, news flashes, blogs, search, and support for language internationalization._
+
+_As of November 2016, Joomla! has been downloaded over 81 million times. Over 7,800 free and commercial extensions are available from the official Joomla! Extensions Directory, and more are available from other sources. It is estimated to be the second most used content management system on the Internet, after WordPress._
+
+From Wikipedia: [Joomla](https://en.wikipedia.org/wiki/Joomla) <https://en.wikipedia.org/wiki/Joomla>
 
 ## Current Joomla! version: 3.7.2
 
