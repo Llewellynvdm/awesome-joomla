@@ -9,7 +9,7 @@ Aweseome Joomla Guidelines:
 - No templates. If you are looking for templates, just google it.
 - No extensions. If you are looking for templates, go to [Joomla! Extensions Directory (JED)](https://extensions.joomla.org/).
 
-## Current Joomla version**: 3.6.5. 
+## Current Joomla version: 3.7.2
 
 - [Joomla! Downloads](https://downloads.joomla.org/) / Downloaded over 80,000,000 times!
 - [Usage Statistics](https://developer.joomla.org/about/stats.html)
