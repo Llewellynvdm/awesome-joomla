@@ -7,17 +7,6 @@ Awesome list of Joomla! seed repos, starters, boilerplates, examples, tutorials,
 Aweseome Joomla! Guidelines:
 
 - Joomla! has more than 10 years of history. So, there are many many many resources. Please, submit only links with up-to-date information.
-- No templates or extensions. There are around 8,000 extensions on JED and I can't even count the top templates. So, to keep the list clean, we have to avoid naming extensions or templates. If you are looking for templates, just google it. If you are looking for extensions, go to [Joomla! Extensions Directory (JED)](https://extensions.joomla.org/). As a guideline of best practices, please, visit the [Development](#development) area where the list includes [Template Frameworks](#template-frameworks) and [General Development Frameworks](#general-development-frameworks).
-
-## What is Joomla?
-
-_Joomla is a free and open-source content management system (CMS) for publishing web content. It is built on a model–view–controller web application framework that can be used independently of the CMS._
-
-_Joomla! is written in PHP, uses object-oriented programming (OOP) techniques (since version 1.5) and software design patterns, stores data in a MySQL, MS SQL (since version 2.5), or PostgreSQL (since version 3.0) database, and includes features such as page caching, RSS feeds, printable versions of pages, news flashes, blogs, search, and support for language internationalization._
-
-_As of November 2016, Joomla! has been downloaded over 81 million times. Over 7,800 free and commercial extensions are available from the official Joomla! Extensions Directory, and more are available from other sources. It is estimated to be the second most used content management system on the Internet, after WordPress._
-
-From Wikipedia: [Joomla](https://en.wikipedia.org/wiki/Joomla) <https://en.wikipedia.org/wiki/Joomla>
 
 ## Current Joomla! version: 3.7.2
 
@@ -26,11 +15,14 @@ From Wikipedia: [Joomla](https://en.wikipedia.org/wiki/Joomla) <https://en.wikip
 
 ## Contents
 
-- [Official Resources](#official-resources)
+- [Joomla 101](#joomla-101)
+- [Top Extensions](#top-extensions)
 - [Joomla! Extensions Directory (JED)](#joomla-extensions-directory-jed)
+- [Templates Frameworks](#Templates)
+- [Development](#development)
+- [Official Resources](#official-resources)
 - [Leadership](#leadership)
 - [Community](#community)
-- [Development](#development)
 - [Marketing](#marketing)
 - [Experts on Twitter](#experts-on-twitter)
 - [Archive](#archive)
@@ -49,12 +41,87 @@ From Wikipedia: [Joomla](https://en.wikipedia.org/wiki/Joomla) <https://en.wikip
         - [Programs](https://volunteers.joomla.org/departments/programs)
 - [Advertise on Joomla! | BuySellAds](https://www.buysellads.com/buy/detail/278743)
 
+## Joomla 101
+
+- [Joomla](https://en.wikipedia.org/wiki/Joomla). From Wikipedia: _Joomla is a free and open-source content management system (CMS) for publishing web content. It is built on a model–view–controller web application framework that can be used independently of the CMS.
+
+## Top Extensions
+
+These extensions are always found in any Joomla! site. 
+
+- [Akeeba Backup](https://extensions.joomla.org/extensions/extension/access-a-security/site-security/akeeba-backup/) and [Admin Tools](https://extensions.joomla.org/extensions/extension/access-a-security/site-security/admin-tools/) - Essential backup and administration tools
+- [AcyMailing Starter](https://extensions.joomla.org/extensions/extension/marketing/newsletter/acymailing-starter/) - A well-known extension for mailing
+- [Advanced Module Manager](https://extensions.joomla.org/extensions/extension/style-a-design/modules-management/advanced-module-manager/) - Beyond the standard Module Manager, with many powerful features.
+
+## Extensions by Category
+
+### Photos & Images 
+
+### Social Web 
+
+### News Display 
+
+### Style & Design 
+
+### Site Management
+
+### Contacts & Feedback 
+
+### Structure & Navigation 
+
+### Core Enhancements
+
+### e-Commerce
+
+### Directory & Documentation
+
 ## Joomla! Extensions Directory (JED)
 
 - Most Common Submission Errors
     - Install name doesn't match listing name.
     - Use the [JED Checker](https://extensions.joomla.org/extensions/extension/miscellaneous/development/jedchecker/) tool to screen your extension before resubmitting.    
     - [Submission Error Codes](https://extensions.joomla.org/support/knowledgebase/item/submission-error-codes/)
+
+## Templates Frameworks
+
+There are many templates. So, the topic of "Templates Frameworks" seems to be the right way to name the family of the best templates around.
+
+## Development
+
+### Source Code
+
+- [joomla/joomla-cms - Main Repository](https://github.com/joomla/joomla-cms) - Home of the Joomla! Content Management System
+
+### Tips and Tricks
+
+A handy reference for beginners.
+
+- [Accessing the database using JDatabase](https://docs.joomla.org/How_to_use_the_database_classes_in_your_script)- [Retrieving request data using JInput](https://docs.joomla.org/Retrieving_request_data_using_JInput)
+- [Adding JavaScript and CSS to the page](https://docs.joomla.org/Adding_JavaScript_and_CSS_to_the_page)
+- [Understanding Output Overrides](https://docs.joomla.org/Understanding_Output_Overrides) - A Personal Note: This is VERY important to master the art of customizing a site.
+
+
+### Template Frameworks
+
+TBD
+
+### General Development Frameworks
+
+TBD
+
+### Testing
+
+- [Running Automated Tests for the Joomla CMS](https://docs.joomla.org/Running_Automated_Tests_for_the_Joomla_CMS)
+
+### Administration
+
+- [How do you recover or reset your admin password?](https://docs.joomla.org/How_do_you_recover_or_reset_your_admin_password%3F)
+
+### Coding standard
+
+- [Joomla! Developer Network - Coding standard](https://developer.joomla.org/coding-standards)
+- [Joomla CodeSniffer (PHP CS 1.5.6)](https://docs.joomla.org/Joomla_CodeSniffer#1._Installation_of_PHP_Code_Sniffer_.28phpcs.29) - Legacy - 1.x - <https://github.com/joomla/coding-standards/tree/1.x>
+- [Joomla CodeSniffer - (PHP CS 2.8)](https://github.com/joomla/coding-standards) - Modern 2.0.0-alpha
 
 ## Leadership
 
@@ -143,41 +210,6 @@ Joomla! Trademark & Licensing | [tm.joomla.org](https://tm.joomla.org)
 The Joomla! Vulnerable Extensions List | [vel.joomla.org](https://vel.joomla.org)
 Joomla! Volunteers Portal | [volunteers.joomla.org](https://volunteers.joomla.org)
 JoomlaCode | [joomlacode.org](http://joomlacode.org)
-
-## Development
-
-### Source Code
-
-- [joomla/joomla-cms - Main Repository](https://github.com/joomla/joomla-cms) - Home of the Joomla! Content Management System
-
-### Tips and Tircks - A handy reference for beginners
-
-- [Accessing the database using JDatabase](https://docs.joomla.org/How_to_use_the_database_classes_in_your_script)- [Retrieving request data using JInput](https://docs.joomla.org/Retrieving_request_data_using_JInput)
-- [Adding JavaScript and CSS to the page](https://docs.joomla.org/Adding_JavaScript_and_CSS_to_the_page)
-- [Understanding Output Overrides](https://docs.joomla.org/Understanding_Output_Overrides) - A Personal Note: This is VERY important to master the art of customizing a site.
-
-
-### Template Frameworks
-
-TBD
-
-### General Development Frameworks
-
-TBD
-
-### Testing
-
-- [Running Automated Tests for the Joomla CMS](https://docs.joomla.org/Running_Automated_Tests_for_the_Joomla_CMS)
-
-### Administration
-
-- [How do you recover or reset your admin password?](https://docs.joomla.org/How_do_you_recover_or_reset_your_admin_password%3F)
-
-### Coding standard
-
-- [Joomla! Developer Network - Coding standard](https://developer.joomla.org/coding-standards)
-- [Joomla CodeSniffer (PHP CS 1.5.6)](https://docs.joomla.org/Joomla_CodeSniffer#1._Installation_of_PHP_Code_Sniffer_.28phpcs.29) - Legacy - 1.x - <https://github.com/joomla/coding-standards/tree/1.x>
-- [Joomla CodeSniffer - (PHP CS 2.8)](https://github.com/joomla/coding-standards) - Modern 2.0.0-alpha
 
 ## Marketing
 
