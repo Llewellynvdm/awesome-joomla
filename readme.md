@@ -35,7 +35,7 @@ Aweseome Joomla! Guidelines:
 
 ## Top Extensions
 
-These extensions are always found in any Joomla! site. 
+These extensions are always found in any Joomla! site. For more extensions, search the [Joomla! Extensions Directory (JED)](https://extensions.joomla.org).
 
 - [Akeeba Backup](https://extensions.joomla.org/extensions/extension/access-a-security/site-security/akeeba-backup/) and [Admin Tools](https://extensions.joomla.org/extensions/extension/access-a-security/site-security/admin-tools/) - Essential backup and administration tools
 - [AcyMailing Starter](https://extensions.joomla.org/extensions/extension/marketing/newsletter/acymailing-starter/) - A well-known extension for mailing
@@ -63,13 +63,6 @@ These extensions are always found in any Joomla! site.
 
 ### Directory & Documentation
 
-## Joomla! Extensions Directory (JED)
-
-- Most Common Submission Errors
-    - Install name doesn't match listing name.
-    - Use the [JED Checker](https://extensions.joomla.org/extensions/extension/miscellaneous/development/jedchecker/) tool to screen your extension before resubmitting.    
-    - [Submission Error Codes](https://extensions.joomla.org/support/knowledgebase/item/submission-error-codes/)
-
 ## Templates Frameworks
 
 There are many templates. So, the topic of "Templates Frameworks" seems to be the right way to name the family of the best templates around.
@@ -93,6 +86,13 @@ A handy reference for beginners.
 ### Testing
 
 - [Running Automated Tests for the Joomla CMS](https://docs.joomla.org/Running_Automated_Tests_for_the_Joomla_CMS)
+
+## Extension Development for JED submission
+
+- Most Common Submission Errors
+    - Install name doesn't match listing name.
+    - Use the [JED Checker](https://extensions.joomla.org/extensions/extension/miscellaneous/development/jedchecker/) tool to screen your extension before resubmitting.    
+    - [Submission Error Codes](https://extensions.joomla.org/support/knowledgebase/item/submission-error-codes/)
 
 ### Administration
 
