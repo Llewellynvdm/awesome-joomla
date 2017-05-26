@@ -17,6 +17,7 @@ Aweseome Joomla! Guidelines:
 - [Development](#development)
 - [Official Resources](#official-resources)
 - [Community Sites](#community-sites)
+- [Events](#events)
 - [Leadership](#leadership)
 - [Marketing](#marketing)
 - [Experts on Twitter](#experts-on-twitter)
@@ -141,6 +142,13 @@ A handy reference for beginners.
 - The Joomla! Vulnerable Extensions List - [vel.joomla.org](https://vel.joomla.org)
 - Joomla! Volunteers Portal - [volunteers.joomla.org](https://volunteers.joomla.org)
 - JoomlaCode - [joomlacode.org](http://joomlacode.org)
+
+## Events
+
+- [Joomla! World Conference](https://conference.joomla.org/) - The official main event
+- [J and Beyond](http://jandbeyond.org/) - The community main event
+- [Joomla! Days](https://community.joomla.org/events/joomladays.html) - Joomla Days are local events, coordinated by user groups at city level.
+- [Joomla! Days](https://community.joomla.org/events/joomladays.html) - Joomla Days are local events, coordinated by user groups at city level.
 
 ## Leadership
 
