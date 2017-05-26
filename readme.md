@@ -22,7 +22,7 @@ Aweseome Joomla! Guidelines:
 - [Experts on Twitter](#experts-on-twitter)
 - [Archive](#archive)
 
-## Joomla in a nutshell
+## Joomla In A Nutshell
 
 - [Joomla](https://en.wikipedia.org/wiki/Joomla). From Wikipedia: _Joomla is a free and open-source content management system (CMS) for publishing web content. It is built on a model–view–controller web application framework that can be used independently of the CMS._
 
