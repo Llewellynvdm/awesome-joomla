@@ -148,7 +148,6 @@ A handy reference for beginners.
 - [Joomla! World Conference](https://conference.joomla.org/) - The official main event
 - [J and Beyond](http://jandbeyond.org/) - The community main event
 - [Joomla! Days](https://community.joomla.org/events/joomladays.html) - Joomla Days are local events, coordinated by user groups at city level.
-- [Joomla! Days](https://community.joomla.org/events/joomladays.html) - Joomla Days are local events, coordinated by user groups at city level.
 
 ## Leadership
 
