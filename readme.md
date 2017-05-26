@@ -10,7 +10,7 @@ Aweseome Joomla! Guidelines:
 
 ## Contents
 
-- [Joomla in a nutshell](#joomla-in-a-nutshell)
+- [Joomla In A Nutshell](#joomla-in-a-nutshell)
 - [Top Extensions](#top-extensions)
 - [Joomla! Extensions Directory (JED)](#joomla-extensions-directory-jed)
 - [Templates Frameworks](#Templates)
