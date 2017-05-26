@@ -8,13 +8,6 @@ Aweseome Joomla! Guidelines:
 
 - Joomla! has more than 10 years of history. So, there are many many many resources. Please, submit only links with up-to-date information.
 
-## Current Joomla! version: 3.7.2
-
-- [Joomla! Downloads](https://downloads.joomla.org/)
-    - Download Joomla! 3.7.2
-    - Upgrade Packages
-- [Usage Statistics](https://developer.joomla.org/about/stats.html)
-
 ## Contents
 
 - [Joomla 101](#joomla-101)
@@ -32,6 +25,13 @@ Aweseome Joomla! Guidelines:
 ## Joomla 101
 
 - [Joomla](https://en.wikipedia.org/wiki/Joomla). From Wikipedia: _Joomla is a free and open-source content management system (CMS) for publishing web content. It is built on a model–view–controller web application framework that can be used independently of the CMS.
+
+### Current Joomla! version: 3.7.2
+
+- [Joomla! Downloads](https://downloads.joomla.org/)
+    - Download Joomla! 3.7.2
+    - Upgrade Packages
+- [Usage Statistics](https://developer.joomla.org/about/stats.html)
 
 ## Top Extensions
 
