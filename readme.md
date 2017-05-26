@@ -29,20 +29,6 @@ Aweseome Joomla! Guidelines:
 - [Experts on Twitter](#experts-on-twitter)
 - [Archive](#archive)
 
-## Official Resources
-
-- [Joomla! - Main Site](https://www.joomla.org/)
-- [Joomla! Volunteers Portal™](https://volunteers.joomla.org/)
-    - [Board of Directors - Reports](https://volunteers.joomla.org/board-of-directors)
-    - [Departments - Reports](https://volunteers.joomla.org/departments)
-        - [Events](https://volunteers.joomla.org/departments/events)
-        - [Legal & Financial](https://volunteers.joomla.org/departments/legal-financial)
-        - [Marketing & Communication](https://volunteers.joomla.org/departments/marketing-communication)
-        - [Operations](https://volunteers.joomla.org/departments/operations)
-        - [Production](https://volunteers.joomla.org/departments/production)
-        - [Programs](https://volunteers.joomla.org/departments/programs)
-- [Advertise on Joomla! | BuySellAds](https://www.buysellads.com/buy/detail/278743)
-
 ## Joomla 101
 
 - [Joomla](https://en.wikipedia.org/wiki/Joomla). From Wikipedia: _Joomla is a free and open-source content management system (CMS) for publishing web content. It is built on a model–view–controller web application framework that can be used independently of the CMS.
@@ -125,6 +111,20 @@ TBD
 - [Joomla CodeSniffer (PHP CS 1.5.6)](https://docs.joomla.org/Joomla_CodeSniffer#1._Installation_of_PHP_Code_Sniffer_.28phpcs.29) - Legacy - 1.x - <https://github.com/joomla/coding-standards/tree/1.x>
 - [Joomla CodeSniffer - (PHP CS 2.8)](https://github.com/joomla/coding-standards) - Modern 2.0.0-alpha
 
+## Official Resources
+
+- [Joomla! - Main Site](https://www.joomla.org/)
+- [Joomla! Volunteers Portal™](https://volunteers.joomla.org/)
+    - [Board of Directors - Reports](https://volunteers.joomla.org/board-of-directors)
+    - [Departments - Reports](https://volunteers.joomla.org/departments)
+        - [Events](https://volunteers.joomla.org/departments/events)
+        - [Legal & Financial](https://volunteers.joomla.org/departments/legal-financial)
+        - [Marketing & Communication](https://volunteers.joomla.org/departments/marketing-communication)
+        - [Operations](https://volunteers.joomla.org/departments/operations)
+        - [Production](https://volunteers.joomla.org/departments/production)
+        - [Programs](https://volunteers.joomla.org/departments/programs)
+- [Advertise on Joomla! | BuySellAds](https://www.buysellads.com/buy/detail/278743)
+
 ## Leadership
 
 ### Organization Chart
@@ -189,29 +189,27 @@ TBD
 
 ### Sites
 
-Website | URL 
-------- | ------
-Main Site | [www.joomla.org](https://www.joomla.org)
-Joomla! API | [api.joomla.org](https://api.joomla.org)
-Joomla! Certification Program | [certification.joomla.org](https://certification.joomla.org)
-The Joomla! Community Portal | [community.joomla.org](https://community.joomla.org)
-Joomla! World Conference | [conference.joomla.org](https://conference.joomla.org)
-Joomla! Developer Network | [developer.joomla.org](https://developer.joomla.org)
-Joomla! Documentation | [docs.joomla.org](https://docs.joomla.org)
-Joomla! Downloads | [downloads.joomla.org](https://downloads.joomla.org)
-Joomla! Certification Exam | [exam.joomla.org](https://exam.joomla.org)
-Joomla! Extensions Directory | [extensions.joomla.org](https://extensions.joomla.org)
-The Joomla! Forum | [forum.joomla.org](https://forum.joomla.org)
-Joomla! Framework | [framework.joomla.org](https://framework.joomla.org)
-Joomla! Issue Tracker | [issues.joomla.org](https://issues.joomla.org)
-Joomla! Community Magazine | [magazine.joomla.org](https://magazine.joomla.org)
-Open Source Matters! | [opensourcematters.org](http://opensourcematters.org)
-Joomla! Resources Directory | [resources.joomla.org](http://resources.joomla.org)
-Joomla! Showcase Directory | [showcase.joomla.org](https://showcase.joomla.org)
-Joomla! Trademark & Licensing | [tm.joomla.org](https://tm.joomla.org)
-The Joomla! Vulnerable Extensions List | [vel.joomla.org](https://vel.joomla.org)
-Joomla! Volunteers Portal | [volunteers.joomla.org](https://volunteers.joomla.org)
-JoomlaCode | [joomlacode.org](http://joomlacode.org)
+- Main Site - [www.joomla.org](https://www.joomla.org)
+- Joomla! API - [api.joomla.org](https://api.joomla.org)
+- Joomla! Certification Program - [certification.joomla.org](https://certification.joomla.org)
+- The Joomla! Community Portal - [community.joomla.org](https://community.joomla.org)
+- Joomla! World Conference - [conference.joomla.org](https://conference.joomla.org)
+- Joomla! Developer Network - [developer.joomla.org](https://developer.joomla.org)
+- Joomla! Documentation - [docs.joomla.org](https://docs.joomla.org)
+- Joomla! Downloads - [downloads.joomla.org](https://downloads.joomla.org)
+- Joomla! Certification Exam - [exam.joomla.org](https://exam.joomla.org)
+- Joomla! Extensions Directory - [extensions.joomla.org](https://extensions.joomla.org)
+- The Joomla! Forum - [forum.joomla.org](https://forum.joomla.org)
+- Joomla! Framework - [framework.joomla.org](https://framework.joomla.org)
+- Joomla! Issue Tracker - [issues.joomla.org](https://issues.joomla.org)
+- Joomla! Community Magazine - [magazine.joomla.org](https://magazine.joomla.org)
+- Open Source Matters! - [opensourcematters.org](http://opensourcematters.org)
+- Joomla! Resources Directory - [resources.joomla.org](http://resources.joomla.org)
+- Joomla! Showcase Directory - [showcase.joomla.org](https://showcase.joomla.org)
+- Joomla! Trademark & Licensing - [tm.joomla.org](https://tm.joomla.org)
+- The Joomla! Vulnerable Extensions List - [vel.joomla.org](https://vel.joomla.org)
+- Joomla! Volunteers Portal - [volunteers.joomla.org](https://volunteers.joomla.org)
+- JoomlaCode - [joomlacode.org](http://joomlacode.org)
 
 ## Marketing
 
