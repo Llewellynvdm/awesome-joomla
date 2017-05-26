@@ -74,6 +74,8 @@ These extensions are always found in any Joomla! site.
 
 There are many templates. So, the topic of "Templates Frameworks" seems to be the right way to name the family of the best templates around.
 
+### General Development Frameworks
+
 ## Development
 
 ### Source Code
@@ -87,15 +89,6 @@ A handy reference for beginners.
 - [Accessing the database using JDatabase](https://docs.joomla.org/How_to_use_the_database_classes_in_your_script)- [Retrieving request data using JInput](https://docs.joomla.org/Retrieving_request_data_using_JInput)
 - [Adding JavaScript and CSS to the page](https://docs.joomla.org/Adding_JavaScript_and_CSS_to_the_page)
 - [Understanding Output Overrides](https://docs.joomla.org/Understanding_Output_Overrides) - A Personal Note: This is VERY important to master the art of customizing a site.
-
-
-### Template Frameworks
-
-TBD
-
-### General Development Frameworks
-
-TBD
 
 ### Testing
 
