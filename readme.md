@@ -10,7 +10,9 @@ Aweseome Joomla! Guidelines:
 
 ## Current Joomla! version: 3.7.2
 
-- [Joomla! Downloads](https://downloads.joomla.org/) / Downloaded over 80,000,000 times!
+- [Joomla! Downloads](https://downloads.joomla.org/)
+    - Download Joomla! 3.7.2
+    - Upgrade Packages
 - [Usage Statistics](https://developer.joomla.org/about/stats.html)
 
 ## Contents
