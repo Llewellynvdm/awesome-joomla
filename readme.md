@@ -44,25 +44,18 @@ These extensions are always found in any Joomla! site. For more extensions, sear
 
 ## Extensions by Category
 
-### Photos & Images 
+- [Photos & Images](https://extensions.joomla.org/category/photos-a-images)
+- [Social Web](https://extensions.joomla.org/category/social-web)
+- [News Display](https://extensions.joomla.org/category/news-display)
+- [Style & Design](https://extensions.joomla.org/category/style-a-design)
+- [Site Management](https://extensions.joomla.org/category/site-management)
+- [Contacts & Feedback](https://extensions.joomla.org/category/contacts-and-feedback) 
+- [Structure & Navigation](https://extensions.joomla.org/category/structure-a-navigation) 
+- [Core Enhancements](https://extensions.joomla.org/category/core-enhancements)
+- [e-Commerce](https://extensions.joomla.org/category/e-commerce)
+- [Directory & Documentation](https://extensions.joomla.org/category/directory-a-documentation)
 
-### Social Web 
-
-### News Display 
-
-### Style & Design 
-
-### Site Management
-
-### Contacts & Feedback 
-
-### Structure & Navigation 
-
-### Core Enhancements
-
-### e-Commerce
-
-### Directory & Documentation
+To browse the whole catalog of extensions, please, visit the extension directory here, [JED](https://extensions.joomla.org/).
 
 ## Templates Frameworks
 
