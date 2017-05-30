@@ -86,6 +86,8 @@ A handy reference for beginners.
 
 ### Testing
 
+- [Codeception for Joomla!](http://codeception.com/for/joomla) - Combine all testing levels (acceptance, functional, unit).
+- [JAB16 - Beyond Testing, by Michael Bodnarchuk](https://www.youtube.com/watch?v=YBL2sN-Bj7g&t=194s) - What are best practices for tests (with code samples).
 - [Running Automated Tests for the Joomla CMS](https://docs.joomla.org/Running_Automated_Tests_for_the_Joomla_CMS)
 
 ## Extension Development for JED submission
