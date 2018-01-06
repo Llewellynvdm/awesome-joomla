@@ -69,6 +69,18 @@ There are many templates. So, the topic of "Templates Frameworks" seems to be th
 
 - [joomla/joomla-cms - Main Repository](https://github.com/joomla/joomla-cms) - Home of the Joomla! Content Management System
 
+### Joomla 4 Resources
+
+- [Potential backward compatibility issues in Joomla 4](https://docs.joomla.org/Potential_backward_compatibility_issues_in_Joomla_4) - This document tracks potential backward compatibility issues for Joomla! 4. Listed are issues which potentially break extensions.
+- [Joomla 4 Readiness Survey - December 21st 2017](https://docs.google.com/forms/d/1VNNe77rEFMKtK0oT9ZVKi17ZhHC8iVwj1GNM3XMlNgg/viewanalytics?edit_requested=true)
+- [Joomla - Nightly Builds](https://developer.joomla.org/nightly-builds.html) - Help test the latest Joomla! code.
+- [Testing Joomla! patches](https://docs.joomla.org/Testing_Joomla!_patches)
+- [Testing Joomla! patches QuickReferenceGuide](https://docs.joomla.org/Testing_Joomla!_patches_QuickReferenceGuide)
+- [Be smart, load but don’t unload!](https://developer.joomla.org/news/716-be-smart-load-but-dont-unload-ui-frameworks.html) - Information to our users / Joomla and UI Frameworks
+- [4 reasons why you should get PHP 7](https://www.joomla.org/announcements/general-news/5719-4-reasons-why-you-should-get-php-7.html). Be ready for #Joomla 4. It's coming in 2018
+- [Episode IV - A new User Interface for the Joomla Backend](https://magazine.joomla.org/item/3289-episode-iv-a-new-user-interface-for-the-joomla-backend)
+- [Joomla 4 Alpha is Out! Check the extensions for compatibility Joomla](https://magazine.joomla.org/item/3290-joomla-4-alpha-is-out)
+
 ### Tips and Tricks
 
 A handy reference for beginners.
@@ -79,6 +91,8 @@ A handy reference for beginners.
 
 ### Testing
 
+- [Testing Joomla! patches](https://docs.joomla.org/Testing_Joomla!_patches)
+- [Testing Joomla! patches QuickReferenceGuide](https://docs.joomla.org/Testing_Joomla!_patches_QuickReferenceGuide)
 - [Codeception for Joomla!](http://codeception.com/for/joomla) - Combine all testing levels (acceptance, functional, unit).
 - [JAB16 - Beyond Testing, by Michael Bodnarchuk](https://www.youtube.com/watch?v=YBL2sN-Bj7g&t=194s) - What are best practices for tests (with code samples).
 - [Running Automated Tests for the Joomla CMS](https://docs.joomla.org/Running_Automated_Tests_for_the_Joomla_CMS)
