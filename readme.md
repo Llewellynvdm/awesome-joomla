@@ -80,6 +80,7 @@ There are many templates. So, the topic of "Templates Frameworks" seems to be th
 - [4 reasons why you should get PHP 7](https://www.joomla.org/announcements/general-news/5719-4-reasons-why-you-should-get-php-7.html). Be ready for #Joomla 4. It's coming in 2018
 - [Episode IV - A new User Interface for the Joomla Backend](https://magazine.joomla.org/item/3289-episode-iv-a-new-user-interface-for-the-joomla-backend)
 - [Joomla 4 Alpha is Out! Check the extensions for compatibility Joomla](https://magazine.joomla.org/item/3290-joomla-4-alpha-is-out)
+- [Joomla 4 - Custom Elements](https://magazine.joomla.org/issues/issue-nov-2017/item/3286-joomla-4-custom-elements), by Dimitris Grammatikogiannis
 
 ### Tips and Tricks
 
