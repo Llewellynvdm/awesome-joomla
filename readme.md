@@ -27,10 +27,10 @@ Aweseome Joomla! Guidelines:
 
 - [Joomla](https://en.wikipedia.org/wiki/Joomla). From Wikipedia: _Joomla is a free and open-source content management system (CMS) for publishing web content. It is built on a model–view–controller web application framework that can be used independently of the CMS._
 
-### Current Joomla! version: 3.7.2
+### Current Joomla! version
 
 - [Joomla! Downloads](https://downloads.joomla.org/)
-    - Download Joomla! 3.7.2
+    - Download Joomla! Stable
     - Upgrade Packages
 - [Usage Statistics](https://developer.joomla.org/about/stats.html)
 
