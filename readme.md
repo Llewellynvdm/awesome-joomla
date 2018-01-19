@@ -16,11 +16,11 @@ Aweseome Joomla! Guidelines:
 - [Templates Frameworks](#Templates)
 - [Development](#development)
 - [Official Resources](#official-resources)
-- [Community Sites](#community-sites)
+- [Joomla Official Sites](#community-sites)
 - [Events](#events)
 - [Leadership](#leadership)
 - [Marketing](#marketing)
-- [Experts on Twitter](#experts-on-twitter)
+- [Podcasts](#podcasts)
 - [Archive](#archive)
 
 ## Joomla In A Nutshell
@@ -155,7 +155,7 @@ A handy reference for beginners.
         - [Programs](https://volunteers.joomla.org/departments/programs)
 - [Advertise on Joomla! | BuySellAds](https://www.buysellads.com/buy/detail/278743)
 
-## Community Sites
+## Joomla Official Sites
 
 - Main Site - [www.joomla.org](https://www.joomla.org)
 - Joomla! API - [api.joomla.org](https://api.joomla.org)
@@ -255,23 +255,12 @@ A handy reference for beginners.
 - [Typography](https://drive.google.com/drive/folders/0B-WMsfRg_wivMVp2T0V4VU5EOW8)
 - [Logos - Conditional Use](https://drive.google.com/drive/folders/0B0yY6xU4qDVUaVdoXzlHeHZMeTg)
 - [Joomla 3.6 Imagery](https://docs.joomla.org/J3.x:Joomla_3.6_Imagery)
+- [Social Media - Joomla 3.5](https://drive.google.com/drive/folders/0B5uNo3ban2UnN05UYUh6M1hXVmM)
 
-## Social Media
+## Podcasts
 
-- [Joomla 3.5](https://drive.google.com/drive/folders/0B5uNo3ban2UnN05UYUh6M1hXVmM)
-
-## Experts on Twitter
-
-- [@astroboysoup](https://twitter.com/astroboysoup)
-- [@brianteeman](https://twitter.com/brianteeman)
-- [@cozimek](https://twitter.com/cozimek)
-- [@mbabker](https://twitter.com/mbabker)
-- [@MIT5O5](https://twitter.com/MIT5O5)
-- [@philiplocke](https://twitter.com/philiplocke)
-- [@phproberto](https://twitter.com/phproberto)
-- [@RadekSu](https://twitter.com/RadekSu)
-- [@rdeutz](https://twitter.com/rdeutz)
-- [@SteveJBurge](https://twitter.com/SteveJBurge)
+- [Joomla Beat Podcast | Spreaker](https://www.spreaker.com/show/joomla_beat_podcast)
+- [Mastermind Joomla!](https://mastermindjoomla.com/) - _Español_
 
 ## Archive
 
