@@ -61,8 +61,6 @@ To browse the whole catalog of extensions, please, visit the extension directory
 
 There are many templates. So, the topic of "Templates Frameworks" seems to be the right way to name the family of the best templates around.
 
-### General Development Frameworks
-
 ## Development
 
 ### Source Code
@@ -71,32 +69,31 @@ There are many templates. So, the topic of "Templates Frameworks" seems to be th
 
 ### Joomla 4 Resources
 
-### General Resources for J4
+#### General Resources for J4
 
 - [Potential backward compatibility issues in Joomla 4](https://docs.joomla.org/Potential_backward_compatibility_issues_in_Joomla_4) - This document tracks potential backward compatibility issues for Joomla! 4. Listed are issues which potentially break extensions.
 - [Joomla 4 Readiness Survey - December 21st 2017](https://docs.google.com/forms/d/1VNNe77rEFMKtK0oT9ZVKi17ZhHC8iVwj1GNM3XMlNgg/viewanalytics?edit_requested=true)
 - [Joomla - Nightly Builds](https://developer.joomla.org/nightly-builds.html) - Help test the latest Joomla! code.
 - [Testing Joomla! patches](https://docs.joomla.org/Testing_Joomla!_patches)
 - [Testing Joomla! patches QuickReferenceGuide](https://docs.joomla.org/Testing_Joomla!_patches_QuickReferenceGuide)
-- [Joomla 4 Alpha is Out! Check the extensions for compatibility Joomla](https://magazine.joomla.org/item/3290-joomla-4-alpha-is-out)
+- [Ruud68 - coding-standards/Joomla/Sniffs](https://github.com/Ruud68/coding-standards/tree/master/Joomla/Sniffs/Deprecated)
 
-
-### New Media Manager
+#### New Media Manager
 
 - [Joomla 4 New Media Manager: How it helps manage media files](https://www.gavick.com/blog/joomla-4-new-media-manager-how-it-helps-manage-media-files)
 
-### New User Interface of J4
+#### New User Interface of J4
 
 - [Be smart, load but don’t unload!](https://developer.joomla.org/news/716-be-smart-load-but-dont-unload-ui-frameworks.html) - Information to our users / Joomla and UI Frameworks
 - [Episode IV - A new User Interface for the Joomla Backend](https://magazine.joomla.org/item/3289-episode-iv-a-new-user-interface-for-the-joomla-backend)
 - [Joomla 4 - Custom Elements](https://magazine.joomla.org/issues/issue-nov-2017/item/3286-joomla-4-custom-elements), by Dimitris Grammatikogiannis
 - [Joomla 4 and Bootstrap 4: Perfect integration](https://www.jomsocial.com/blog/joomla-4-and-bootstrap-4-perfect-integration)
 
-### PHP 7 - Minimum Requirement
+#### PHP 7 - Minimum Requirement
 
 - [4 reasons why you should get PHP 7](https://www.joomla.org/announcements/general-news/5719-4-reasons-why-you-should-get-php-7.html). Be ready for #Joomla 4. It's coming in 2018
 
-### Community News about Joomla 4
+#### Community News about Joomla 4
 
 - [8 most exciting Joomla 4 new features](https://www.joomlart.com/blog/8-most-excited-joomla-4-new-features)
 - [9 exciting Joomla 4 new features introduction](https://www.joomlart.com/blog/infographic-9-exiting-joomla-4-new-features-introduction)
@@ -104,6 +101,7 @@ There are many templates. So, the topic of "Templates Frameworks" seems to be th
 - [Discovery Joomla 4 News Features and Release Plan](https://www.smartaddons.com/blog/discovery-joomla-4-news-features-and-release-plan)
 - [Everything you need to know about Joomla 4](https://www.joomshaper.com/blog/everything-you-need-to-know-about-joomla-4)
 - [Joomla 3 and Joomla 4 features comparison: 15 new things to take note](https://www.joomlart.com/blog/joomla-3-vs-joomla-4-features-comparison-15-new-things-to-take-note)
+- [Joomla 4 Alpha is Out! Check the extensions for compatibility Joomla](https://magazine.joomla.org/item/3290-joomla-4-alpha-is-out)
 - _Podcast Español_ - [Mastermind Joomla - ¿Qué esperar de Joomla 4?](https://mastermindjoomla.com/17-que-esperar-joomla-4)
 
 ![9 exciting Joomla 4 new features introduction](https://static.joomlart.com/images/blog/2017/joomla-4/joomla-4-new-features-infographics/joomla-4-new-features-infographics.jpg)
