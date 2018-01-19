@@ -76,7 +76,7 @@ There are many templates. So, the topic of "Templates Frameworks" seems to be th
 - [Joomla - Nightly Builds](https://developer.joomla.org/nightly-builds.html) - Help test the latest Joomla! code.
 - [Testing Joomla! patches](https://docs.joomla.org/Testing_Joomla!_patches)
 - [Testing Joomla! patches QuickReferenceGuide](https://docs.joomla.org/Testing_Joomla!_patches_QuickReferenceGuide)
-- [Ruud68 - coding-standards/Joomla/Sniffs](https://github.com/Ruud68/coding-standards/tree/master/Joomla/Sniffs/Deprecated)
+- [Ruud68 - coding-standards/Joomla/Sniffs](https://github.com/Ruud68/coding-standards/tree/master/Joomla/Sniffs/Deprecated) - A whole bunch of depreacted functions and classes
 
 #### New Media Manager
 
