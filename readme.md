@@ -82,7 +82,7 @@ There are many templates. So, the topic of "Templates Frameworks" seems to be th
 
 - [JWC 2017 - Joomla 4 - Coming to a Website near you!](https://www.youtube.com/watch?v=1UKh8RmWTrI&list=PL0Lg2fzcJu1Rk-Ylwo1kKNZvY_Pz8yhW0&index=9), by George Wilson
 - [JWC 2017 - Joomla 4ward](https://www.youtube.com/watch?v=uT05Co1hqDA&list=PL0Lg2fzcJu1Rk-Ylwo1kKNZvY_Pz8yhW0&index=23), by Michael Babker
-- [JAB17 - New authorization library in J4 - redone for performance and flexybility](https://www.youtube.com/watch?v=XwX_dYpZw5k&index=3&list=PLSwFVRVZ3joRaNi8VgagcqW4IxX5MmYOc), by Klas - All about new authorization library is replacing JAccess in J4.[
+- [JAB17 - New authorization library in J4 - redone for performance and flexybility](https://www.youtube.com/watch?v=XwX_dYpZw5k&index=3&list=PLSwFVRVZ3joRaNi8VgagcqW4IxX5MmYOc), by Klas - All about new authorization library is replacing JAccess in J4.
 - [JAB17 - Prepare your extension for Joomla 4](https://www.youtube.com/watch?v=4FKSrAVcDqU&list=PLSwFVRVZ3joRaNi8VgagcqW4IxX5MmYOc&index=6), by Allon Moritz. Allon leads the media manager team and is porting the Joomla CMS to namespaces in the Joomla 4 working group.
 
 #### New Media Manager
