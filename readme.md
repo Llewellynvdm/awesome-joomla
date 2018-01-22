@@ -74,9 +74,16 @@ There are many templates. So, the topic of "Templates Frameworks" seems to be th
 - [Potential backward compatibility issues in Joomla 4](https://docs.joomla.org/Potential_backward_compatibility_issues_in_Joomla_4) - This document tracks potential backward compatibility issues for Joomla! 4. Listed are issues which potentially break extensions.
 - [Joomla 4 Readiness Survey - December 21st 2017](https://docs.google.com/forms/d/1VNNe77rEFMKtK0oT9ZVKi17ZhHC8iVwj1GNM3XMlNgg/viewanalytics?edit_requested=true)
 - [Joomla - Nightly Builds](https://developer.joomla.org/nightly-builds.html) - Help test the latest Joomla! code.
-- [Testing Joomla! patches](https://docs.joomla.org/Testing_Joomla!_patches)
-- [Testing Joomla! patches QuickReferenceGuide](https://docs.joomla.org/Testing_Joomla!_patches_QuickReferenceGuide)
+- [Testing Joomla! patches](https://docs.joomla.org/Testing_Joomla!_patches) - This page explains how you can contribute to the Joomla project by testing
+- [Testing Joomla! patches QuickReferenceGuide](https://docs.joomla.org/Testing_Joomla!_patches_QuickReferenceGuide) - A Quick Reference Guide for testing
 - [Ruud68 - coding-standards/Joomla/Sniffs](https://github.com/Ruud68/coding-standards/tree/master/Joomla/Sniffs/Deprecated) - A whole bunch of depreacted functions and classes
+
+#### Videos about Joomla 4
+
+- [JWC 2017 - Joomla 4 - Coming to a Website near you!](https://www.youtube.com/watch?v=1UKh8RmWTrI&list=PL0Lg2fzcJu1Rk-Ylwo1kKNZvY_Pz8yhW0&index=9), by George Wilson
+- [JWC 2017 - Joomla 4ward](https://www.youtube.com/watch?v=uT05Co1hqDA&list=PL0Lg2fzcJu1Rk-Ylwo1kKNZvY_Pz8yhW0&index=23), by Michael Babker
+- [JAB17 - New authorization library in J4 - redone for performance and flexybility](https://www.youtube.com/watch?v=XwX_dYpZw5k&index=3&list=PLSwFVRVZ3joRaNi8VgagcqW4IxX5MmYOc), by Klas - All about new authorization library is replacing JAccess in J4.[
+- [JAB17 - Prepare your extension for Joomla 4](https://www.youtube.com/watch?v=4FKSrAVcDqU&list=PLSwFVRVZ3joRaNi8VgagcqW4IxX5MmYOc&index=6), by Allon Moritz. Allon leads the media manager team and is porting the Joomla CMS to namespaces in the Joomla 4 working group.
 
 #### New Media Manager
 
