@@ -67,6 +67,11 @@ There are many templates. So, the topic of "Templates Frameworks" seems to be th
 
 - [joomla/joomla-cms - Main Repository](https://github.com/joomla/joomla-cms) - Home of the Joomla! Content Management System
 
+### Extension Development
+
+- [joomla-extensions/boilerplate](https://github.com/joomla-extensions/boilerplate) - Boilerplate files for Joomla! extensions
+- [joomla-extensions/weblinks](https://github.com/joomla-extensions/weblinks) - This repo is meant to hold the decoupled com_weblinks component and related code.
+
 ### Joomla 4 Resources
 
 #### General Resources for J4
