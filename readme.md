@@ -13,7 +13,6 @@ Aweseome Joomla! Guidelines:
 - [Joomla In A Nutshell](#joomla-in-a-nutshell)
 - [Top Extensions](#top-extensions)
 - [Joomla! Extensions Directory (JED)](#joomla-extensions-directory-jed)
-- [Templates Frameworks](#Templates)
 - [Development](#development)
 - [Official Resources](#official-resources)
 - [Joomla Official Sites](#community-sites)
@@ -61,20 +60,64 @@ To browse the whole catalog of extensions, please, visit the extension directory
 - [Extensions Compatible with J4 Alpha](https://extensions.joomla.org/extensions/extension/?searchall=&filter%5Btags%5D%5B%5D=&filter%5Bcore_catid%5D=&filter%5Bincludes%5D=&filter%5Bversions%5D=40&filter%5Btype%5D=&filter%5Bhasdemo%5D=&filter%5Bnewupdated%5D=&filter%5Bscore%5D=&dir=DESC&limitstart=&controller=filter&view=extension&layout=list&Itemid=145&clearorders=0&clearfilters=1) - Extensions ready for Joomla 4.
 - [Custom Fields for Joomla](https://extensions.joomla.org/extensions/extension/?searchall=&filter%5Btags%5D%5B%5D=517&filter%5Bcore_catid%5D=&filter%5Bincludes%5D=&filter%5Bversions%5D=&filter%5Btype%5D=&filter%5Bhasdemo%5D=&filter%5Bnewupdated%5D=&filter%5Bscore%5D=&dir=DESC&limitstart=&controller=filter&view=extension&layout=list&Itemid=145&clearorders=0&clearfilters=1) - New Custom Fields in the Joomla! Extension Directory (JED).
 
-## Templates Frameworks
-
-There are many templates. So, the topic of "Templates Frameworks" seems to be the right way to name the family of the best templates around.
-
 ## Development
 
 ### Source Code
 
 - [joomla/joomla-cms - Main Repository](https://github.com/joomla/joomla-cms) - Home of the Joomla! Content Management System
 
+### Development Frameworks
+
+- [FOF (Framework on Framework)](https://github.com/akeeba/fof) - FOF (Framework on Framework) is a Rapid Application Development framework for Joomla!. 
+- [Javascript Frameworks](https://docs.joomla.org/J3.x:Javascript_Frameworks) - The Joomla! CMS includes a number of JavaScript Frameworks.
+- [Joomla! Framework](https://framework.joomla.org/) - Designed by software developers for software developers. Easy to Adapt. Easy to Extend.
+- [Joomlatools Framework](https://www.joomlatools.com/developer/framework/) - All of Joomlatools extensions are powered by the Joomlatools Framework.
+
 ### Extension Development
 
 - [joomla-extensions/boilerplate](https://github.com/joomla-extensions/boilerplate) - Boilerplate files for Joomla! extensions
 - [joomla-extensions/weblinks](https://github.com/joomla-extensions/weblinks) - This repo is meant to hold the decoupled com_weblinks component and related code.
+
+#### Template Frameworks
+
+There are many templates. So, the topic of "Templates Frameworks" seems to be the right way to name the family of the best templates around.
+
+- [Gantry - Next Generation Theme Framework](http://gantry.org/) - Develop CMS themes quickly and efficiently while providing flexibility and ease-of-use for end-users.
+- [T3 for Joomla!](http://www.t3-framework.org/) - The all new, modern and flexible Joomla Template Framework built with Bootstrap 3.
+
+### Testing
+
+- [Testing Joomla! patches](https://docs.joomla.org/Testing_Joomla!_patches)
+- [Testing Joomla! patches QuickReferenceGuide](https://docs.joomla.org/Testing_Joomla!_patches_QuickReferenceGuide)
+- [Codeception for Joomla!](http://codeception.com/for/joomla) - Combine all testing levels (acceptance, functional, unit).
+- [JAB16 - Beyond Testing, by Michael Bodnarchuk](https://www.youtube.com/watch?v=YBL2sN-Bj7g&t=194s) - What are best practices for tests (with code samples).
+- [Running Automated Tests for the Joomla CMS](https://docs.joomla.org/Running_Automated_Tests_for_the_Joomla_CMS)
+
+### Extension Development for JED submission
+
+- Most Common Submission Errors
+    - Install name doesn't match listing name.
+    - Use the [JED Checker](https://extensions.joomla.org/extensions/extension/miscellaneous/development/jedchecker/) tool to screen your extension before resubmitting.    
+    - [Submission Error Codes](https://extensions.joomla.org/support/knowledgebase/item/submission-error-codes/)
+
+### Administration
+
+- [How do you recover or reset your admin password?](https://docs.joomla.org/How_do_you_recover_or_reset_your_admin_password%3F)
+- [Security Checklist/You have been hacked or defaced](https://docs.joomla.org/Security_Checklist/You_have_been_hacked_or_defaced) - On Line Action List.
+
+### Coding standard
+
+- [Joomla! Developer Network - Coding standard](https://developer.joomla.org/coding-standards)
+- [Joomla CodeSniffer (PHP CS 1.5.6)](https://docs.joomla.org/Joomla_CodeSniffer#1._Installation_of_PHP_Code_Sniffer_.28phpcs.29) - Legacy - 1.x - <https://github.com/joomla/coding-standards/tree/1.x>
+- [Joomla CodeSniffer - (PHP CS 2.8)](https://github.com/joomla/coding-standards) - Modern 2.0.0-alpha
+
+### Tips and Tricks
+
+A handy reference for beginners.
+
+- [Accessing the database using JDatabase](https://docs.joomla.org/How_to_use_the_database_classes_in_your_script)- [Retrieving request data using JInput](https://docs.joomla.org/Retrieving_request_data_using_JInput)
+- [Adding JavaScript and CSS to the page](https://docs.joomla.org/Adding_JavaScript_and_CSS_to_the_page)
+- [Understanding Output Overrides](https://docs.joomla.org/Understanding_Output_Overrides) - A Personal Note: This is VERY important to master the art of customizing a site.
 
 ### Joomla 4 Resources
 
@@ -124,49 +167,6 @@ There are many templates. So, the topic of "Templates Frameworks" seems to be th
 - _Podcast Español_ - [Mastermind Joomla - ¿Qué esperar de Joomla 4?](https://mastermindjoomla.com/17-que-esperar-joomla-4)
 
 ![9 exciting Joomla 4 new features introduction](https://static.joomlart.com/images/blog/2017/joomla-4/joomla-4-new-features-infographics/joomla-4-new-features-infographics.jpg)
-
-### Tips and Tricks
-
-A handy reference for beginners.
-
-- [Accessing the database using JDatabase](https://docs.joomla.org/How_to_use_the_database_classes_in_your_script)- [Retrieving request data using JInput](https://docs.joomla.org/Retrieving_request_data_using_JInput)
-- [Adding JavaScript and CSS to the page](https://docs.joomla.org/Adding_JavaScript_and_CSS_to_the_page)
-- [Understanding Output Overrides](https://docs.joomla.org/Understanding_Output_Overrides) - A Personal Note: This is VERY important to master the art of customizing a site.
-
-### Testing
-
-- [Testing Joomla! patches](https://docs.joomla.org/Testing_Joomla!_patches)
-- [Testing Joomla! patches QuickReferenceGuide](https://docs.joomla.org/Testing_Joomla!_patches_QuickReferenceGuide)
-- [Codeception for Joomla!](http://codeception.com/for/joomla) - Combine all testing levels (acceptance, functional, unit).
-- [JAB16 - Beyond Testing, by Michael Bodnarchuk](https://www.youtube.com/watch?v=YBL2sN-Bj7g&t=194s) - What are best practices for tests (with code samples).
-- [Running Automated Tests for the Joomla CMS](https://docs.joomla.org/Running_Automated_Tests_for_the_Joomla_CMS)
-
-### Development Frameworks
-
-- [FOF (Framework on Framework)](https://github.com/akeeba/fof) - FOF (Framework on Framework) is a Rapid Application Development framework for Joomla!. 
-- [Gantry - Next Generation Theme Framework](http://gantry.org/) - Develop CMS themes quickly and efficiently while providing flexibility and ease-of-use for end-users.
-- [Javascript Frameworks](https://docs.joomla.org/J3.x:Javascript_Frameworks) - The Joomla! CMS includes a number of JavaScript Frameworks.
-- [Joomla! Framework](https://framework.joomla.org/) - Designed by software developers for software developers. Easy to Adapt. Easy to Extend.
-- [Joomlatools Framework](https://www.joomlatools.com/developer/framework/) - All of Joomlatools extensions are powered by the Joomlatools Framework.
-- [T3 for Joomla!](http://www.t3-framework.org/) - The all new, modern and flexible Joomla Template Framework built with Bootstrap 3.
-
-
-## Extension Development for JED submission
-
-- Most Common Submission Errors
-    - Install name doesn't match listing name.
-    - Use the [JED Checker](https://extensions.joomla.org/extensions/extension/miscellaneous/development/jedchecker/) tool to screen your extension before resubmitting.    
-    - [Submission Error Codes](https://extensions.joomla.org/support/knowledgebase/item/submission-error-codes/)
-
-### Administration
-
-- [How do you recover or reset your admin password?](https://docs.joomla.org/How_do_you_recover_or_reset_your_admin_password%3F)
-
-### Coding standard
-
-- [Joomla! Developer Network - Coding standard](https://developer.joomla.org/coding-standards)
-- [Joomla CodeSniffer (PHP CS 1.5.6)](https://docs.joomla.org/Joomla_CodeSniffer#1._Installation_of_PHP_Code_Sniffer_.28phpcs.29) - Legacy - 1.x - <https://github.com/joomla/coding-standards/tree/1.x>
-- [Joomla CodeSniffer - (PHP CS 2.8)](https://github.com/joomla/coding-standards) - Modern 2.0.0-alpha
 
 ## Official Resources
 
