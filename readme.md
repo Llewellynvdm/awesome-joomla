@@ -33,6 +33,7 @@ Aweseome Joomla! Guidelines:
     - Download Joomla! Stable
     - Upgrade Packages
 - [Usage Statistics](https://developer.joomla.org/about/stats.html)
+- [Unofficial - Joomla Core Files Mirror](https://mirror.myjoomla.io/) - The oldest, most complete, most respected mirror of all Joomla and Mambo versions ever compiled and maintained.
 
 ## Top Extensions
 
@@ -82,6 +83,7 @@ There are many templates. So, the topic of "Templates Frameworks" seems to be th
 - [Testing Joomla! patches](https://docs.joomla.org/Testing_Joomla!_patches) - This page explains how you can contribute to the Joomla project by testing
 - [Testing Joomla! patches QuickReferenceGuide](https://docs.joomla.org/Testing_Joomla!_patches_QuickReferenceGuide) - A Quick Reference Guide for testing
 - [Ruud68 - coding-standards/Joomla/Sniffs](https://github.com/Ruud68/coding-standards/tree/master/Joomla/Sniffs/Deprecated) - A whole bunch of depreacted functions and classes
+- [Joomla 4 - Roadmap](https://developer.joomla.org/roadmap.html#4) - The full Joomla 4 roadmap is published on the Developer site.
 
 #### Videos about Joomla 4
 
@@ -108,6 +110,7 @@ There are many templates. So, the topic of "Templates Frameworks" seems to be th
 
 #### Community News about Joomla 4
 
+- [Joomla 4 compatibility layer in 3.8](https://developer.joomla.org/news/717-joomla-4-compatibility-layer-in-3-8.html) - With the release of Joomla 3.8 a first compatibility layer for Joomla 4 was released. 
 - [8 most exciting Joomla 4 new features](https://www.joomlart.com/blog/8-most-excited-joomla-4-new-features)
 - [9 exciting Joomla 4 new features introduction](https://www.joomlart.com/blog/infographic-9-exiting-joomla-4-new-features-introduction)
 - [A First Look at Joomla 4](https://www.joomlashack.com/blog/tutorials/first-look-joomla-4/)
@@ -134,6 +137,16 @@ A handy reference for beginners.
 - [Codeception for Joomla!](http://codeception.com/for/joomla) - Combine all testing levels (acceptance, functional, unit).
 - [JAB16 - Beyond Testing, by Michael Bodnarchuk](https://www.youtube.com/watch?v=YBL2sN-Bj7g&t=194s) - What are best practices for tests (with code samples).
 - [Running Automated Tests for the Joomla CMS](https://docs.joomla.org/Running_Automated_Tests_for_the_Joomla_CMS)
+
+### Development Frameworks
+
+- [FOF (Framework on Framework)](https://github.com/akeeba/fof) - FOF (Framework on Framework) is a Rapid Application Development framework for Joomla!. 
+- [Gantry - Next Generation Theme Framework](http://gantry.org/) - Develop CMS themes quickly and efficiently while providing flexibility and ease-of-use for end-users.
+- [Javascript Frameworks](https://docs.joomla.org/J3.x:Javascript_Frameworks) - The Joomla! CMS includes a number of JavaScript Frameworks.
+- [Joomla! Framework](https://framework.joomla.org/) - Designed by software developers for software developers. Easy to Adapt. Easy to Extend.
+- [Joomlatools Framework](https://www.joomlatools.com/developer/framework/) - All of Joomlatools extensions are powered by the Joomlatools Framework.
+- [T3 for Joomla!](http://www.t3-framework.org/) - The all new, modern and flexible Joomla Template Framework built with Bootstrap 3.
+
 
 ## Extension Development for JED submission
 
