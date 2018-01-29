@@ -58,6 +58,9 @@ These extensions are always found in any Joomla! site. For more extensions, sear
 
 To browse the whole catalog of extensions, please, visit the extension directory here, [JED](https://extensions.joomla.org/).
 
+- [Extensions Compatible with J4 Alpha](https://extensions.joomla.org/extensions/extension/?searchall=&filter%5Btags%5D%5B%5D=&filter%5Bcore_catid%5D=&filter%5Bincludes%5D=&filter%5Bversions%5D=40&filter%5Btype%5D=&filter%5Bhasdemo%5D=&filter%5Bnewupdated%5D=&filter%5Bscore%5D=&dir=DESC&limitstart=&controller=filter&view=extension&layout=list&Itemid=145&clearorders=0&clearfilters=1) - Extensions ready for Joomla 4.
+- [Custom Fields for Joomla](https://extensions.joomla.org/extensions/extension/?searchall=&filter%5Btags%5D%5B%5D=517&filter%5Bcore_catid%5D=&filter%5Bincludes%5D=&filter%5Bversions%5D=&filter%5Btype%5D=&filter%5Bhasdemo%5D=&filter%5Bnewupdated%5D=&filter%5Bscore%5D=&dir=DESC&limitstart=&controller=filter&view=extension&layout=list&Itemid=145&clearorders=0&clearfilters=1) - New Custom Fields in the Joomla! Extension Directory (JED).
+
 ## Templates Frameworks
 
 There are many templates. So, the topic of "Templates Frameworks" seems to be the right way to name the family of the best templates around.
