@@ -283,8 +283,8 @@ A handy reference for beginners.
     - Joomla is used in 6.6% of CMS and 3.2% of global websites. 
 In particular, security is a strength of Joomla:
     - Joomla has the [Best Practice Guides](https://developer.joomla.org/coding-standards.html) in its development standard and is a measure that applies to core development and approved extensions within the ecosystem. 
-To see Joomla's historical security in perspective, Joomla had 94 security reports, while WordPress had 254 and Drupal 313 respectively. You can find the full analysis here: https://www.getastra.com/blog/cms/security-comparison-of-cms-wordpress-vs-drupal-vs-joomla/
-    - In short, Joomla is ideal for corporate sites, non-profit organizations, educational institutions or other organizations. 
+To confirm Joomla's security assurances in perspective, Joomla had 94 security reports, while WordPress had 254 and Drupal 313 respectively. You can find the full analysis here: https://www.getastra.com/blog/cms/security-comparison-of-cms-wordpress-vs-drupal-vs-joomla/
+    - In short, Joomla is ideal for corporate sites, non-profit organisations, or educational institutions.  
     - About the news of Joomla in 2017, this is a good summary of the day-to-day topics of the project: https://www.joomla.org/announcements/general-news/5722-joomla-year-in-review-2017.html
 - [A sustainable ecosystem for Joomla](https://docs.google.com/presentation/d/1Sx1UPZ8whxsxFvyHCMoGhtF5_HvHH1Xy3QWJe3EeCcE/edit#slide=id.g1ba30ac4d2_0_6)
 - [Joomla Marketing Visuals](https://docs.joomla.org/Joomla_Marketing_Visuals) - [Google Drive](http://goo.gl/VRlZCP)
