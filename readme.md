@@ -274,7 +274,18 @@ A handy reference for beginners.
 
 ## Marketing
 
-- [Brochure - 2017](#). High-level informative document.
+- [Brochure - 2017](https://github.com/anibalsanchez/awesome-joomla/blob/master/Joomla_Brochure-UseCases-2017-US-English-2-opt.pdf). High-level informative document.
+- [Media Kit](https://docs.google.com/document/d/1EU_d_-uae2lHA-IbvnXJo5h6ZBK84tUO0-Xx7lC0qm0/edit#). Promotional Materials about Joomla.
+    - Joomla is an open source project fully managed by a community, where volunteers collaborate with their experience and time.
+    - Joomla is an award-winning content management system (CMS). During 2017, Joomla won the **Best Free CMS**, by [2017 CMS Critic Awards](https://community.joomla.org/blogs/community/joomla-is-the-best-free-cms-by-2017-cms-critic-awards.html)
+    - Within the main functionality,"ease of use" and "extensibility" (8,000+ approved extensions) are always highlighted. This is the core functionality: <https://www.joomla.org/core-features.html>. Natively, Joomla incorporates 2FA authentication.
+    - Joomla is an established CMS, with a mature code base (370,000+ lines of code), more than 12 years of evolution (29,000+ commits) and supported by a great team of collaborators (780+).
+    - Joomla is used in 6.6% of CMS and 3.2% of global websites. 
+In particular, security is a strength of Joomla:
+    - Joomla has the [Best Practice Guides](https://developer.joomla.org/coding-standards.html) in its development standard and is a measure that applies to core development and approved extensions within the ecosystem. 
+To see Joomla's historical security in perspective, Joomla had 94 security reports, while WordPress had 254 and Drupal 313 respectively. You can find the full analysis here: https://www.getastra.com/blog/cms/security-comparison-of-cms-wordpress-vs-drupal-vs-joomla/
+    - In short, Joomla is ideal for corporate sites, non-profit organizations, educational institutions or other organizations. 
+    - About the news of Joomla in 2017, this is a good summary of the day-to-day topics of the project: https://www.joomla.org/announcements/general-news/5722-joomla-year-in-review-2017.html
 - [A sustainable ecosystem for Joomla](https://docs.google.com/presentation/d/1Sx1UPZ8whxsxFvyHCMoGhtF5_HvHH1Xy3QWJe3EeCcE/edit#slide=id.g1ba30ac4d2_0_6)
 - [Joomla Marketing Visuals](https://docs.joomla.org/Joomla_Marketing_Visuals) - [Google Drive](http://goo.gl/VRlZCP)
 - [Joomla Signature](https://drive.google.com/drive/folders/0B-WMsfRg_wiva0ZIMUtNNWVIVnM)
