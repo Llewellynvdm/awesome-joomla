@@ -78,7 +78,7 @@ To browse the whole catalog of extensions, please, visit the extension directory
 - [JAB17 - Your Joomla dev-ops, ci & cd toolbox](https://www.youtube.com/watch?v=H5JgIQTLoO0&t=492s) - By Andy Gaskell. This talk will provide a gourmet buffet of information and ideas for dev-ops, continuous integration and continuous deployment.
 - [JD17UK - DevOps for Joomla](https://www.youtube.com/watch?v=w5ORPXt6W_o&feature=youtu.be) - By Andy Gaskell. The talk is about DevOps for Joomla, from a practical perspective.
 - [AndyGaskell/Joomla_Day_UK_2017](https://github.com/AndyGaskell/Joomla_Day_UK_2017) - Slides and examples from Joomla Day UK 2017
-- [Devops with Lando and Docker](https://extly.tech/media/devops-with-lando-and-docker/index.html#/) - By Anibal Sanchez. Introduction to Lando and Docker, in a Joomla context.
+- [DevOps with Lando and Docker](https://extly.tech/media/devops-with-lando-and-docker/index.html#/) - By Anibal Sanchez. Introduction to Lando and Docker, in a Joomla context.
 
 ### Extension Development
 
