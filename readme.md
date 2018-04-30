@@ -49,8 +49,8 @@ These extensions are always found in any Joomla! site. For more extensions, sear
 - [News Display](https://extensions.joomla.org/category/news-display)
 - [Style & Design](https://extensions.joomla.org/category/style-a-design)
 - [Site Management](https://extensions.joomla.org/category/site-management)
-- [Contacts & Feedback](https://extensions.joomla.org/category/contacts-and-feedback) 
-- [Structure & Navigation](https://extensions.joomla.org/category/structure-a-navigation) 
+- [Contacts & Feedback](https://extensions.joomla.org/category/contacts-and-feedback)
+- [Structure & Navigation](https://extensions.joomla.org/category/structure-a-navigation)
 - [Core Enhancements](https://extensions.joomla.org/category/core-enhancements)
 - [e-Commerce](https://extensions.joomla.org/category/e-commerce)
 - [Directory & Documentation](https://extensions.joomla.org/category/directory-a-documentation)
@@ -68,10 +68,17 @@ To browse the whole catalog of extensions, please, visit the extension directory
 
 ### Development Frameworks
 
-- [FOF (Framework on Framework)](https://github.com/akeeba/fof) - FOF (Framework on Framework) is a Rapid Application Development framework for Joomla!. 
+- [FOF (Framework on Framework)](https://github.com/akeeba/fof) - FOF (Framework on Framework) is a Rapid Application Development framework for Joomla!.
 - [Javascript Frameworks](https://docs.joomla.org/J3.x:Javascript_Frameworks) - The Joomla! CMS includes a number of JavaScript Frameworks.
 - [Joomla! Framework](https://framework.joomla.org/) - Designed by software developers for software developers. Easy to Adapt. Easy to Extend.
 - [Joomlatools Framework](https://www.joomlatools.com/developer/framework/) - All of Joomlatools extensions are powered by the Joomlatools Framework.
+
+### Joomla DevOps - Cloud
+
+- [JAB17 - Your Joomla dev-ops, ci & cd toolbox](https://www.youtube.com/watch?v=H5JgIQTLoO0&t=492s) - By Andy Gaskell. This talk will provide a gourmet buffet of information and ideas for dev-ops, continuous integration and continuous deployment.
+- [JD17UK - DevOps for Joomla](https://www.youtube.com/watch?v=w5ORPXt6W_o&feature=youtu.be) - By Andy Gaskell. The talk is about DevOps for Joomla, from a practical perspective.
+- [AndyGaskell/Joomla_Day_UK_2017](https://github.com/AndyGaskell/Joomla_Day_UK_2017) - Slides and examples from Joomla Day UK 2017
+- [Devops with Lando and Docker](https://extly.tech/media/devops-with-lando-and-docker/index.html#/) - By Anibal Sanchez. Introduction to Lando and Docker, in a Joomla context.
 
 ### Extension Development
 
@@ -97,7 +104,7 @@ There are many templates. So, the topic of "Templates Frameworks" seems to be th
 
 - Most Common Submission Errors
     - Install name doesn't match listing name.
-    - Use the [JED Checker](https://extensions.joomla.org/extensions/extension/miscellaneous/development/jedchecker/) tool to screen your extension before resubmitting.    
+    - Use the [JED Checker](https://extensions.joomla.org/extensions/extension/miscellaneous/development/jedchecker/) tool to screen your extension before resubmitting.
     - [Submission Error Codes](https://extensions.joomla.org/support/knowledgebase/item/submission-error-codes/)
 
 ### Administration
@@ -156,7 +163,7 @@ A handy reference for beginners.
 
 #### Community News about Joomla 4
 
-- [Joomla 4 compatibility layer in 3.8](https://developer.joomla.org/news/717-joomla-4-compatibility-layer-in-3-8.html) - With the release of Joomla 3.8 a first compatibility layer for Joomla 4 was released. 
+- [Joomla 4 compatibility layer in 3.8](https://developer.joomla.org/news/717-joomla-4-compatibility-layer-in-3-8.html) - With the release of Joomla 3.8 a first compatibility layer for Joomla 4 was released.
 - [8 most exciting Joomla 4 new features](https://www.joomlart.com/blog/8-most-excited-joomla-4-new-features)
 - [9 exciting Joomla 4 new features introduction](https://www.joomlart.com/blog/infographic-9-exiting-joomla-4-new-features-introduction)
 - [A First Look at Joomla 4](https://www.joomlashack.com/blog/tutorials/first-look-joomla-4/)
@@ -275,14 +282,14 @@ A handy reference for beginners.
 ## Marketing
 
 - [Brochure - 2017](https://github.com/anibalsanchez/awesome-joomla/blob/master/Joomla_Brochure-UseCases-2017-US-English-2-opt.pdf). High-level informative document.
-- [Media Kit](https://docs.google.com/document/d/1EU_d_-uae2lHA-IbvnXJo5h6ZBK84tUO0-Xx7lC0qm0/edit#). Promotional Materials about Joomla. 
+- [Media Kit](https://docs.google.com/document/d/1EU_d_-uae2lHA-IbvnXJo5h6ZBK84tUO0-Xx7lC0qm0/edit#). Promotional Materials about Joomla.
     - Key Facts
         - Joomla is an award-winning content management system (CMS) used to build powerful web sites and online applications.
         - A global volunteer community of developers has been building and improving Joomla since the first version was released in 2005. This immense effort has made _Joomla easy to use, stable and very secure_.
         - Joomla is an award-winning content management system (CMS). During 2017, Joomla won the **Best Free CMS**, by [2017 CMS Critic Awards](https://community.joomla.org/blogs/community/joomla-is-the-best-free-cms-by-2017-cms-critic-awards.html)
         - Within the main functionality,"ease of use" and "extensibility" (8,000+ approved extensions) are always highlighted. This is the core functionality: <https://www.joomla.org/core-features.html>. Natively, Joomla incorporates 2FA authentication.
         - Joomla is an established CMS, with a mature code base (370,000+ lines of code), more than 12 years of evolution (29,000+ commits) and supported by a great team of collaborators (780+).
-        - Joomla is used in 6.6% of CMS and 3.2% of global websites. 
+        - Joomla is used in 6.6% of CMS and 3.2% of global websites.
     - Key Numbers
         - 6.5% of the websites built with a CMS. 3.2% of all websites
         - 2+ million websites
@@ -296,9 +303,9 @@ A handy reference for beginners.
         - 1,200+ registered volunteers
         - 25 million sessions in 2017
 In particular, security is a strength of Joomla:
-    - Joomla has the [Best Practice Guides](https://developer.joomla.org/coding-standards.html) in its development standard and is a measure that applies to core development and approved extensions within the ecosystem. 
+    - Joomla has the [Best Practice Guides](https://developer.joomla.org/coding-standards.html) in its development standard and is a measure that applies to core development and approved extensions within the ecosystem.
 To confirm Joomla's security assurances in perspective, Joomla had 94 security reports, while WordPress had 254 and Drupal 313 respectively. You can find the full analysis here: https://www.getastra.com/blog/cms/security-comparison-of-cms-wordpress-vs-drupal-vs-joomla/
-    - In short, Joomla is ideal for corporate sites, non-profit organisations, or educational institutions. 
+    - In short, Joomla is ideal for corporate sites, non-profit organisations, or educational institutions.
     - About the news in 2017, this is a good summary of the day-to-day topics of the project: https://www.joomla.org/announcements/general-news/5722-joomla-year-in-review-2017.html
 - [A sustainable ecosystem for Joomla](https://docs.google.com/presentation/d/1Sx1UPZ8whxsxFvyHCMoGhtF5_HvHH1Xy3QWJe3EeCcE/edit#slide=id.g1ba30ac4d2_0_6)
 - [Joomla Marketing Visuals](https://docs.joomla.org/Joomla_Marketing_Visuals) - [Google Drive](http://goo.gl/VRlZCP)
