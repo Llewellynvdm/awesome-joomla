@@ -73,7 +73,7 @@ To browse the whole catalog of extensions, please, visit the extension directory
 - [Joomla! Framework](https://framework.joomla.org/) - Designed by software developers for software developers. Easy to Adapt. Easy to Extend.
 - [Joomlatools Framework](https://www.joomlatools.com/developer/framework/) - All of Joomlatools extensions are powered by the Joomlatools Framework.
 
-### Joomla DevOps - Cloud
+### DevOps, Continuous Integration and Development Toolbox
 
 - [JAB17 - Your Joomla dev-ops, ci & cd toolbox](https://www.youtube.com/watch?v=H5JgIQTLoO0&t=492s) - By Andy Gaskell. This talk will provide a gourmet buffet of information and ideas for dev-ops, continuous integration and continuous deployment.
 - [JD17UK - DevOps for Joomla](https://www.youtube.com/watch?v=w5ORPXt6W_o&feature=youtu.be) - By Andy Gaskell. The talk is about DevOps for Joomla, from a practical perspective.
