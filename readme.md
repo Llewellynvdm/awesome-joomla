@@ -83,6 +83,7 @@ To browse the whole catalog of extensions, please, visit the extension directory
 ### Extension Development
 
 - [joomla-extensions/boilerplate](https://github.com/joomla-extensions/boilerplate) - Boilerplate files for Joomla! extensions
+- [anibalsanchez/extly-boilerplate-buildfiles-for-joomla](https://github.com/anibalsanchez/extly-boilerplate-buildfiles-for-joomla) - Webpack-automated Boilerplate files for Joomla! extensions.
 - [joomla-extensions/weblinks](https://github.com/joomla-extensions/weblinks) - This repo is meant to hold the decoupled com_weblinks component and related code.
 
 #### Template Frameworks
