@@ -29,8 +29,8 @@ Aweseome Joomla! Guidelines:
 ### Current Joomla! version
 
 - [Joomla! Downloads](https://downloads.joomla.org/)
-    - Download Joomla! Stable
-    - Upgrade Packages
+  - Download Joomla! Stable
+  - Upgrade Packages
 - [Usage Statistics](https://developer.joomla.org/about/stats.html)
 - [Unofficial - Joomla Core Files Mirror](https://mirror.myjoomla.io/) - The oldest, most complete, most respected mirror of all Joomla and Mambo versions ever compiled and maintained.
 
@@ -85,6 +85,7 @@ To browse the whole catalog of extensions, please, visit the extension directory
 - [joomla-extensions/boilerplate](https://github.com/joomla-extensions/boilerplate) - Boilerplate files for Joomla! extensions
 - [anibalsanchez/extly-buildfiles-for-joomla](https://github.com/anibalsanchez/extly-buildfiles-for-joomla) - Webpack-automated build files for Joomla! extensions. Supports all extensions types + JavaScript Apps (Angular, React, Vue or VanillaJS with Laravel Mix) + Node/NPM + Composer.
 - [joomla-extensions/weblinks](https://github.com/joomla-extensions/weblinks) - This repo is meant to hold the decoupled com_weblinks component and related code.
+- [anibalsanchez/VSCode-Joomla-Snippets](https://github.com/anibalsanchez/VSCode-Joomla-Snippets) - Extension for Visual Studio.
 
 #### Template Frameworks
 
@@ -92,6 +93,14 @@ There are many templates. So, the topic of "Templates Frameworks" seems to be th
 
 - [Gantry - Next Generation Theme Framework](http://gantry.org/) - Develop CMS themes quickly and efficiently while providing flexibility and ease-of-use for end-users.
 - [T3 for Joomla!](http://www.t3-framework.org/) - The all new, modern and flexible Joomla Template Framework built with Bootstrap 3.
+
+#### PWA - Progressive Web Apps
+
+- [JAB18 - Let’s build a Joomla PWA PWS website, Dimitris Grammatikogiannis](https://www.youtube.com/watch?v=Hg_ATQEl9_U&list=PLE_ZsP4SqZpynn-n0q1G8iUaeGYaqVF4k) - A session to collectively demonstrate all the best practices of 2018. Starting from a blank template to the final website using all the buzzwords of the year: critical assets, lazy loaded assets, lazy loaded images, images with source sets and even webp format, manifest, service worker.
+- [Performant Joomla, Dimitris Grammatikogiannis](https://www.youtube.com/watch?v=S7Mr4bZjXBA) - Live Coding Sessions to apply the latest best practices.
+- [joomla-projects/joomla-pwa](https://github.com/joomla-projects/joomla-pwa) - Official Joomla PWA repository.
+- [anibalsanchez/workboxforjoomla](https://github.com/anibalsanchez/workboxforjoomla) - Workbox for Joomla: JavaScript libraries for Progressive Web Apps.
+- [tbela99/gzip](https://github.com/tbela99/gzip) - Optimize any Joomla website and/or turn it into a Progressive Web Application.
 
 ### Testing
 
@@ -104,9 +113,9 @@ There are many templates. So, the topic of "Templates Frameworks" seems to be th
 ### Extension Development for JED submission
 
 - Most Common Submission Errors
-    - Install name doesn't match listing name.
-    - Use the [JED Checker](https://extensions.joomla.org/extensions/extension/miscellaneous/development/jedchecker/) tool to screen your extension before resubmitting.
-    - [Submission Error Codes](https://extensions.joomla.org/support/knowledgebase/item/submission-error-codes/)
+  - Install name doesn't match listing name.
+  - Use the [JED Checker](https://extensions.joomla.org/extensions/extension/miscellaneous/development/jedchecker/) tool to screen your extension before resubmitting.
+  - [Submission Error Codes](https://extensions.joomla.org/support/knowledgebase/item/submission-error-codes/)
 
 ### Administration
 
@@ -180,14 +189,14 @@ A handy reference for beginners.
 
 - [Joomla! - Main Site](https://www.joomla.org/)
 - [Joomla! Volunteers Portal™](https://volunteers.joomla.org/)
-    - [Board of Directors - Reports](https://volunteers.joomla.org/board-of-directors)
-    - [Departments - Reports](https://volunteers.joomla.org/departments)
-        - [Events](https://volunteers.joomla.org/departments/events)
-        - [Legal & Financial](https://volunteers.joomla.org/departments/legal-financial)
-        - [Marketing & Communication](https://volunteers.joomla.org/departments/marketing-communication)
-        - [Operations](https://volunteers.joomla.org/departments/operations)
-        - [Production](https://volunteers.joomla.org/departments/production)
-        - [Programs](https://volunteers.joomla.org/departments/programs)
+  - [Board of Directors - Reports](https://volunteers.joomla.org/board-of-directors)
+  - [Departments - Reports](https://volunteers.joomla.org/departments)
+    - [Events](https://volunteers.joomla.org/departments/events)
+    - [Legal & Financial](https://volunteers.joomla.org/departments/legal-financial)
+    - [Marketing & Communication](https://volunteers.joomla.org/departments/marketing-communication)
+    - [Operations](https://volunteers.joomla.org/departments/operations)
+    - [Production](https://volunteers.joomla.org/departments/production)
+    - [Programs](https://volunteers.joomla.org/departments/programs)
 - [Advertise on Joomla! | BuySellAds](https://www.buysellads.com/buy/detail/278743)
 
 ## Joomla Official Sites
@@ -229,40 +238,40 @@ A handy reference for beginners.
 ### Teams
 
 - Events
-    - Events
-    - User Groups (JUG)
-    - World Conference (JWC)
+  - Events
+  - User Groups (JUG)
+  - World Conference (JWC)
 - Legal & Finance
-    - Capital
-    - Finance Team (FIT)
-    - Trademark & Licensing (TLWG)
+  - Capital
+  - Finance Team (FIT)
+  - Trademark & Licensing (TLWG)
 - Marketing & Communication
-    - Community Translation
-    - Marketing
-    - Social Media
+  - Community Translation
+  - Marketing
+  - Social Media
 - Operations
-    - Community Magazine (JCM)
-    - Extensions Directory (JED)
-    - Forum
-    - Resources Directory (JRD)
-    - Showcase Directory (JSD)
-    - Template Directory (JTD)
-    - Vulnerable Extensions List (VEL)
+  - Community Magazine (JCM)
+  - Extensions Directory (JED)
+  - Forum
+  - Resources Directory (JRD)
+  - Showcase Directory (JSD)
+  - Template Directory (JTD)
+  - Vulnerable Extensions List (VEL)
 - Production
-    - Automated Testing
-    - Bug Squad
-    - CMS Maintainance
-    - CMS Release
-    - Core Translation
-    - Documentation (JDOCS)
-    - Framework
-    - Google Summer of Code (GSOC)
-    - Joomla! X
-    - Security Strike Team (SST)
-    - User Experience (JUX)
+  - Automated Testing
+  - Bug Squad
+  - CMS Maintainance
+  - CMS Release
+  - Core Translation
+  - Documentation (JDOCS)
+  - Framework
+  - Google Summer of Code (GSOC)
+  - Joomla! X
+  - Security Strike Team (SST)
+  - User Experience (JUX)
 - Programs
-    - Certification
-    - Event Traveller Program (JET)
+  - Certification
+  - Event Traveller Program (JET)
 
 ### Joomla! Board of Directors
 
@@ -283,31 +292,9 @@ A handy reference for beginners.
 ## Marketing
 
 - [Brochure - 2017](https://github.com/anibalsanchez/awesome-joomla/blob/master/Joomla_Brochure-UseCases-2017-US-English-2-opt.pdf). High-level informative document.
-- [Media Kit](https://docs.google.com/document/d/1EU_d_-uae2lHA-IbvnXJo5h6ZBK84tUO0-Xx7lC0qm0/edit#). Promotional Materials about Joomla.
-    - Key Facts
-        - Joomla is an award-winning content management system (CMS) used to build powerful web sites and online applications.
-        - A global volunteer community of developers has been building and improving Joomla since the first version was released in 2005. This immense effort has made _Joomla easy to use, stable and very secure_.
-        - Joomla is an award-winning content management system (CMS). During 2017, Joomla won the **Best Free CMS**, by [2017 CMS Critic Awards](https://community.joomla.org/blogs/community/joomla-is-the-best-free-cms-by-2017-cms-critic-awards.html)
-        - Within the main functionality,"ease of use" and "extensibility" (8,000+ approved extensions) are always highlighted. This is the core functionality: <https://www.joomla.org/core-features.html>. Natively, Joomla incorporates 2FA authentication.
-        - Joomla is an established CMS, with a mature code base (370,000+ lines of code), more than 12 years of evolution (29,000+ commits) and supported by a great team of collaborators (780+).
-        - Joomla is used in 6.6% of CMS and 3.2% of global websites.
-    - Key Numbers
-        - 6.5% of the websites built with a CMS. 3.2% of all websites
-        - 2+ million websites
-        - 90+ million downloads
-        - 370,000+ lines of code
-        - 29,000+ commits
-        - 780+ core developers
-        - 10+ core extensions
-        - 170+ User Groups
-        - 70+ Events per year
-        - 1,200+ registered volunteers
-        - 25 million sessions in 2017
-In particular, security is a strength of Joomla:
-    - Joomla has the [Best Practice Guides](https://developer.joomla.org/coding-standards.html) in its development standard and is a measure that applies to core development and approved extensions within the ecosystem.
-To confirm Joomla's security assurances in perspective, Joomla had 94 security reports, while WordPress had 254 and Drupal 313 respectively. You can find the full analysis here: https://www.getastra.com/blog/cms/security-comparison-of-cms-wordpress-vs-drupal-vs-joomla/
-    - In short, Joomla is ideal for corporate sites, non-profit organisations, or educational institutions.
-    - About the news in 2017, this is a good summary of the day-to-day topics of the project: https://www.joomla.org/announcements/general-news/5722-joomla-year-in-review-2017.html
+- [Media Kit](https://docs.google.com/document/d/1EU_d_-uae2lHA-IbvnXJo5h6ZBK84tUO0-Xx7lC0qm0/edit#). Promotional Materials about Joomla. - Key Facts - Joomla is an award-winning content management system (CMS) used to build powerful web sites and online applications. - A global volunteer community of developers has been building and improving Joomla since the first version was released in 2005. This immense effort has made _Joomla easy to use, stable and very secure_. - Joomla is an award-winning content management system (CMS). During 2017, Joomla won the **Best Free CMS**, by [2017 CMS Critic Awards](https://community.joomla.org/blogs/community/joomla-is-the-best-free-cms-by-2017-cms-critic-awards.html) - Within the main functionality,"ease of use" and "extensibility" (8,000+ approved extensions) are always highlighted. This is the core functionality: <https://www.joomla.org/core-features.html>. Natively, Joomla incorporates 2FA authentication. - Joomla is an established CMS, with a mature code base (370,000+ lines of code), more than 12 years of evolution (29,000+ commits) and supported by a great team of collaborators (780+). - Joomla is used in 6.6% of CMS and 3.2% of global websites. - Key Numbers - 6.5% of the websites built with a CMS. 3.2% of all websites - 2+ million websites - 90+ million downloads - 370,000+ lines of code - 29,000+ commits - 780+ core developers - 10+ core extensions - 170+ User Groups - 70+ Events per year - 1,200+ registered volunteers - 25 million sessions in 2017
+  In particular, security is a strength of Joomla: - Joomla has the [Best Practice Guides](https://developer.joomla.org/coding-standards.html) in its development standard and is a measure that applies to core development and approved extensions within the ecosystem.
+  To confirm Joomla's security assurances in perspective, Joomla had 94 security reports, while WordPress had 254 and Drupal 313 respectively. You can find the full analysis here: https://www.getastra.com/blog/cms/security-comparison-of-cms-wordpress-vs-drupal-vs-joomla/ - In short, Joomla is ideal for corporate sites, non-profit organisations, or educational institutions. - About the news in 2017, this is a good summary of the day-to-day topics of the project: https://www.joomla.org/announcements/general-news/5722-joomla-year-in-review-2017.html
 - [A sustainable ecosystem for Joomla](https://docs.google.com/presentation/d/1Sx1UPZ8whxsxFvyHCMoGhtF5_HvHH1Xy3QWJe3EeCcE/edit#slide=id.g1ba30ac4d2_0_6)
 - [Joomla Marketing Visuals](https://docs.joomla.org/Joomla_Marketing_Visuals) - [Google Drive](http://goo.gl/VRlZCP)
 - [Joomla Signature](https://drive.google.com/drive/folders/0B-WMsfRg_wiva0ZIMUtNNWVIVnM)
