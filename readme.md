@@ -291,6 +291,44 @@ A handy reference for beginners.
 
 ## Marketing
 
+- [30 Joomla Statistics for the Informed Digital Marketer in 2019](https://hostingtribunal.com/blog/30-joomla-statistics-for-the-informed-digital-marketer-in-2019/)
+  - Joomla usage statistics
+    - Joomla is the 2nd most widely used CMS in the world.
+    - Joomla has been downloaded over 97M times.
+    - Joomla powers 3.1% of the World Wide Web.
+    - Joomla has a global CMS market share of 5.7%.
+    - More than 2.5M websites worldwide use Joomla.
+    - Among the top 100,000 most visited websites, more than 1,000 use Joomla.
+    - Among the top 1M websites, more than 20K use Joomla.
+    - Over 9% of business websites use Joomla.
+    - 300+ Joomla websites are added every day.
+    - Version 3 of Joomla is used by 66% of all websites that use the CMS.
+  - Key Joomla advantages
+    - Joomla has won the CMS Critic People’s Choice Award for Best Free CMS four years in a row.
+    - Joomla has been selected as a Google Summer of Code Mentor organization 10 times.
+    - Top advantages of using Joomla include better user management, flexibility in displaying non-standard content, and built in multilingual support.
+    - Joomla offers over 70 translation packs for the core.
+    - There are thousands of free and paid templates for Joomla.
+    - According to official Joomla stats, it has close to 8,000 extensions.
+    - Joomla offers SEO-friendly functions natively.
+    - Joomla comes with built in performance-boosting functionality.
+    - Joomla is more secure than WordPress out of the box.
+    - The most popular websites using Joomla include those of Harvard University, IKEA, Linux, Guggenheim Museum, and The Fashion Spot.
+    - Some of the most amazing Joomla sites are showcased at the Joomla.org site.
+    - Joomla is the best CMS for creating social networks.
+    - Contrary to popular belief, Joomla offers powerful blogging capabilities.
+    - The most popular e-commerce-related Joomla extension is VirtueMart.
+  - General Joomla statistics
+    - How long has Joomla been around? In its current form, since 2005.
+    - Joomla is a totally community-driven, open source CMS.
+    - The Joomla code has had 29,000+ commits made by 780+ contributors.
+    - Joomla has an active community of nearly 700K members.
+    - There are 180 Joomla user groups spread across the world.
+    - The Joomla global community had over 35 major events in 2018.
+  - Key Joomla statistics 2019 takeaways
+    - Despite the obvious and substantial domination of the CMS market by WordPress, Joomla continues to maintain a steady global user base.
+    - This is driven by some important advantages that Joomla has to offer, which can be pertinent for your specific needs. These include greater security, more flexibility, better user management, and very strong multilingual functionality.
+    - Joomla statistics also show that it is far from being a product in its death throes; quite the contrary, Joomla remains a thriving, community-driven open source movement that continues to respond to user demands.
 - [Brochure - 2017](https://github.com/anibalsanchez/awesome-joomla/blob/master/Joomla_Brochure-UseCases-2017-US-English-2-opt.pdf). High-level informative document.
 - [Media Kit](https://docs.google.com/document/d/1EU_d_-uae2lHA-IbvnXJo5h6ZBK84tUO0-Xx7lC0qm0/edit#). Promotional Materials about Joomla. - Key Facts - Joomla is an award-winning content management system (CMS) used to build powerful web sites and online applications. - A global volunteer community of developers has been building and improving Joomla since the first version was released in 2005. This immense effort has made _Joomla easy to use, stable and very secure_. - Joomla is an award-winning content management system (CMS). During 2017, Joomla won the **Best Free CMS**, by [2017 CMS Critic Awards](https://community.joomla.org/blogs/community/joomla-is-the-best-free-cms-by-2017-cms-critic-awards.html) - Within the main functionality,"ease of use" and "extensibility" (8,000+ approved extensions) are always highlighted. This is the core functionality: <https://www.joomla.org/core-features.html>. Natively, Joomla incorporates 2FA authentication. - Joomla is an established CMS, with a mature code base (370,000+ lines of code), more than 12 years of evolution (29,000+ commits) and supported by a great team of collaborators (780+). - Joomla is used in 6.6% of CMS and 3.2% of global websites. - Key Numbers - 6.5% of the websites built with a CMS. 3.2% of all websites - 2+ million websites - 90+ million downloads - 370,000+ lines of code - 29,000+ commits - 780+ core developers - 10+ core extensions - 170+ User Groups - 70+ Events per year - 1,200+ registered volunteers - 25 million sessions in 2017
   In particular, security is a strength of Joomla: - Joomla has the [Best Practice Guides](https://developer.joomla.org/coding-standards.html) in its development standard and is a measure that applies to core development and approved extensions within the ecosystem.
