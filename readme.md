@@ -104,6 +104,9 @@ There are many templates. So, the topic of "Templates Frameworks" seems to be th
 
 ### Testing
 
+- [Tutorial - How to setup a local environment for Joomla 4](https://docs.joomla.org/J4.x:Setting_Up_Your_Local_Environment)
+- [Joomla! Bug Squad Portal](https://docs.joomla.org/Portal:Bug_Squad)
+- [Testing Joomla! patches](https://docs.joomla.org/Special:MyLanguage/Testing_Joomla!_patches)
 - [Testing Joomla! patches](https://docs.joomla.org/Testing_Joomla!_patches)
 - [Testing Joomla! patches QuickReferenceGuide](https://docs.joomla.org/Testing_Joomla!_patches_QuickReferenceGuide)
 - [Codeception for Joomla!](http://codeception.com/for/joomla) - Combine all testing levels (acceptance, functional, unit).
@@ -275,19 +278,19 @@ A handy reference for beginners.
 
 ### Joomla! Board of Directors
 
-- [President - Robert Jacobi](http://example.com)
-- [Vice-President - Aleksander Kuczek](http://example.com)
-- [Secretary - Luca Marzo](http://example.com)
+- [President](https://volunteers.joomla.org/board-of-directors)
+- [Vice-President](https://volunteers.joomla.org/board-of-directors)
+- [Secretary](https://volunteers.joomla.org/board-of-directors)
 
 #### Department Coordinators
 
-- [Production - Michael Babker](https://twitter.com/mbabker)
-- [Treasurer - Mike Demopoulos](https://twitter.com/mpmike)
-- [Operations - Peter Martin](http://twitter.com/pe7er)
-- [Marketing & Communication - Radek Suski](https://twitter.com/RadekSu)
-- [Events - Rowan Hoskyns Abrahall](https://volunteers.joomla.org/joomlers/677-rowan-hoskyns-abrahall)
-- [Legal & Finance - Søren Beck Jensen](https://twitter.com/sorenbeck)
-- [Programs - Yves Hoppe](https://twitter.com/yveshoppe)
+- [Production](https://volunteers.joomla.org/board-of-directors)
+- [Treasurer](https://volunteers.joomla.org/board-of-directors)
+- [Operations](https://volunteers.joomla.org/board-of-directors)
+- [Marketing & Communication](https://volunteers.joomla.org/board-of-directors)
+- [Events](https://volunteers.joomla.org/board-of-directors)
+- [Legal](https://volunteers.joomla.org/board-of-directors)
+- [Programs](https://volunteers.joomla.org/board-of-directors)
 
 ## Marketing
 
