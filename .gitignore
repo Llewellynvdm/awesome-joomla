@@ -9,6 +9,7 @@ jsconfig.json
 .php_cs.dist
 .php_cs
 .gitkeep
+.idea
 
 # Composer
 composer.phar
