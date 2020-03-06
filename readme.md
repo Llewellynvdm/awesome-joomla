@@ -94,11 +94,15 @@ There are many templates. So, the topic of "Templates Frameworks" seems to be th
 
 - [Gantry - Next Generation Theme Framework](http://gantry.org/) - Develop CMS themes quickly and efficiently while providing flexibility and ease-of-use for end-users.
 - [T3 for Joomla!](http://www.t3-framework.org/) - The all new, modern and flexible Joomla Template Framework built with Bootstrap 3.
+- [phproberto/tailwind-joomla](https://github.com/phproberto/tailwind-joomla) - Tailwind CSS template for Joomla!
+- [anibalsanchez/XT-Tailwind-for-Joomla](https://github.com/anibalsanchez/XT-Tailwind-for-Joomla) - XT Tailwind for Joomla. My Blog template, based on Tailwind CSS.
 
 #### Boilerplates and Tutorials
 
-- [BL4NK](https://github.com/Bloggerschmidt/Blank#bl4nk) - Light, powerful and free template for Joomla!™ for faster and easier web development. 
+- [BL4NK](https://github.com/Bloggerschmidt/Blank#bl4nk) - Light, powerful and free template for Joomla!™ for faster and easier web development.
 - [Bootstrap Tutorial](https://docs.blank.rocks/bootstrap-tutorial) - A free guide to use BL4NK with Bootstrap
+- [anibalsanchez/extly-buildfiles-for-joomla](https://github.com/anibalsanchez/extly-buildfiles-for-joomla) - Description
+Webpack-automated build files for Joomla! extensions.
 
 #### PWA - Progressive Web Apps
 
